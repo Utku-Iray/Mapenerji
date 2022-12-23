@@ -4,7 +4,7 @@
     <meta name="author" content="Ayman Fikry" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Multi-purpose energy html5 template" />
-    <title>Home Main - Energia Responsive Bootstrap 5 energy HTML5 Template</title>
+    <title>Mapenerji </title>
     <link href="assets/images/favicon/favicon.png" rel="icon" />
     <!--  Fonts ==
     -->

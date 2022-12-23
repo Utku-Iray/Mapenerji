@@ -1,7 +1,8 @@
-<footer class="footer footer-1">
+<footer class="footer footer-1 footer-bg">
+    <img src="assets/images/footer-bg.jpg" style="position: absolute;height:100%;width:100%;filter: opacity(0.35);" alt="">
     <div class="footer-top">
-        <div class="container">
-            <div class="row">
+        <div class="container ">
+            <div class="row ">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-2">
                     <div class="footer-widget widget-links">
                         <div class="footer-widget-title">
@@ -99,7 +100,7 @@
       BackToTop #1
       ============================
       -->
-<div class="back-top" id="back-to-top" data-hover=""><i class="energia-arrow-up"></i></div>
+<!-- <div class="back-top" id="back-to-top" data-hover=""><i class="energia-arrow-up"></i></div> -->
 </div>
 <!--  Footer Scripts==
     -->

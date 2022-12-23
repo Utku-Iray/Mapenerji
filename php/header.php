@@ -20,7 +20,7 @@
                         </div>
                         <div class="contact-infos"><i class="energia-email--icon"></i>
                             <div class="contact-body">
-                                <p>email: <a href="mailto:info@energia.com">info@energia.com			</a></p>
+                                <p>email: <a href="mailto:info@energia.com">info@energia.com </a></p>
                             </div>
                         </div>
                         <div class="contact-infos"><i class="energia-clock-Icon"></i>
@@ -47,12 +47,12 @@
                 </div>
             </div>
             <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu">
-                <a class="navbar-brand" href="index.html"><img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="Energia Logo" /><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="Energia Logo" /></a>
+                <a class="navbar-brand" href="index.php"><img class="logo logo-dark" src="assets/images/mapenerji-logo.png" alt="Energia Logo" /><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="Energia Logo" /></a>
                 <div class="module-holder module-holder-phone">
-                    <div class="module module-search">
+                    <!-- <div class="module module-search">
                         <div class="module-icon module-icon-search"><i class="energia-search-Icon"></i></div>
-                    </div>
-                    <div class="module module-cart">
+                    </div> -->
+                    <!-- <div class="module module-cart">
                         <div class="module-icon module-icon-cart"><i class="fas fa-shopping-cart"></i><span class="title">shop cart</span>
                             <label class="module-label">2</label>
                         </div>
@@ -82,22 +82,26 @@
                                 <li> <img src="assets/images/module-language/ar.png" alt="AR Language" /><a href="#">arabic</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 </div>
                 <div class="collapse navbar-collapse" id="navbarContent">
                     <ul class="navbar-nav me-auto">
-                        <li class="nav-item has-dropdown active" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Home</span></a>
+                        <li class="nav-item" data-hover=""><a href="index.php"><span>Anasayfa</span></a></li>
+
+                        <!-- <li class="nav-item has-dropdown active" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Anasayfa</span></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item current"><a href="index.html"><span>Home main</span></a></li>
+                                <li class="nav-item current"><a href="index.php"><span>Home main</span></a></li>
                                 <li class="nav-item"><a href="home-modern.html"><span>home modern</span></a></li>
                                 <li class="nav-item"><a href="home-classic.html"><span>home classic</span></a></li>
                             </ul>
-                        </li>
-                        <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>company</span></a>
+                        </li> -->
+                        <li class="nav-item" id="contact" data-hover=""><a href="hakkimizda.php"><span>Hakkımızda</span></a></li>
+
+                        <!-- <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Hakkımızda</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="page-about.html"><span>about us</span></a></li>
-                                <li class="nav-item"><a href="page-how-works.html"><span>how it works</span></a></li>
+                                <li class="nav-item"><a href="hakkimizda.php"><span>how it works</span></a></li>
                                 <li class="nav-item"><a href="page-team.html"><span>leadership team</span></a></li>
                                 <li class="nav-item"><a href="page-awards.html"><span>awards &amp; recognition</span></a></li>
                                 <li class="nav-item"><a href="page-pricing.html"><span>pricing &amp; plans</span></a></li>
@@ -106,18 +110,20 @@
                                 <li class="nav-item"><a href="page-careers.html"><span>careers</span></a></li>
                                 <li class="nav-item"><a href="shop-products.html"><span>shop</span></a></li>
                             </ul>
-                        </li>
-                        <li class="nav-item has-dropdown" id="departments" data-hover=""><a class="dropdown-toggle" href="page-services.html" data-toggle="dropdown"><span>services</span></a>
+                        </li> -->
+                        <li class="nav-item has-dropdown" id="departments" data-hover=""><a class="dropdown-toggle" href="page-services.html" data-toggle="dropdown"><span>Çözümlerimiz</span></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item"><a href="services-turbines.html"><span>wind generators</span></a></li>
+                                <li class="nav-item"><a href="enerji-iot-platformu.php"><span>Enerji IoT Platformu</span></a></li>
+
+                                <!-- <li class="nav-item"><a href="services-turbines.html"><span>wind generators</span></a></li>
                                 <li class="nav-item"><a href="services-solar.html"><span>solar pv materials</span></a></li>
                                 <li class="nav-item"><a href="services-battery.html"><span>battery materials</span></a></li>
                                 <li class="nav-item"><a href="services-plants.html"><span>hydropower plants</span></a></li>
                                 <li class="nav-item"><a href="services-fossil.html"><span>fossil resources</span></a></li>
-                                <li class="nav-item"><a href="services-controllers.html"><span>charge controllers</span></a></li>
+                                <li class="nav-item"><a href="services-controllers.html"><span>charge controllers</span></a></li> -->
                             </ul>
                         </li>
-                        <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>projects</span></a>
+                        <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Karıyer</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="projects-standard.html"><span>projects standard</span></a></li>
                                 <li class="nav-item"><a href="projects-modern.html"><span>projects modern</span></a></li>
@@ -125,20 +131,22 @@
                                 <li class="nav-item"><a href="projects-single.html"><span>project single</span></a></li>
                             </ul>
                         </li>
-                        <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>blog</span></a>
+                        <!-- <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>blog</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="blog-grid.html"><span>blog grid</span></a></li>
                                 <li class="nav-item"><a href="blog-standard.html"><span>blog standard</span></a></li>
                                 <li class="nav-item"><a href="blog-single.html"><span>single blog post</span></a></li>
                             </ul>
-                        </li>
+                        </li> -->
+                        <li class="nav-item" data-hover=""><a href="page-contact.html"><span>İndirimli Elektrikli Başvuru Formu</span></a></li>
+
                         <li class="nav-item" id="contact" data-hover=""><a href="page-contact.html"><span>contact</span></a></li>
                     </ul>
                     <div class="module-holder">
-                        <div class="module module-search">
+                        <!-- <div class="module module-search">
                             <div class="module-icon module-icon-search"><i class="energia-search-Icon"></i></div>
-                        </div>
-                        <div class="module module-cart">
+                        </div> -->
+                        <!-- <div class="module module-cart">
                             <div class="module-icon module-icon-cart"><i class="fas fa-shopping-cart"></i><span class="title">shop cart</span>
                                 <label class="module-label">2</label>
                             </div>
@@ -159,9 +167,9 @@
                                 </ul><span>total: <i class="total-price">$620.00</i></span>
                                 <div class="cart--control"> <a class="btn" href="shop-cart.html">view cart</a></div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="module-contact"><a class="btn btn--primary " href="request-quote.html">
-                   request a quote<i class="energia-arrow-right"></i></a></div>
+                                request a quote<i class="energia-arrow-right"></i></a></div>
                     </div>
                     <!--  End .module-holder-->
                 </div>
