@@ -251,6 +251,12 @@ hr {
     .fullscreen {
         height: auto !important;
     }
+    .image-none {
+        display: none !important;
+    }
+    .image-block {
+        display: block !important;
+    }
 }
 
 
@@ -11602,7 +11608,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 .features .feature-panel-holder .feature-panel .feature-content h4 {
     font-family: var(--global--font-heading);
     font-weight: 600;
-    font-size: 19px;
+    font-size: 28px;
     line-height: 27px;
     text-transform: capitalize;
     margin-bottom: 16px;
@@ -14858,7 +14864,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 }
 
 .service-single .service-entry .entry-content .entry-infos .entry-heading {
-    font-size: 24px;
+    font-size: 40px;
     line-height: 1.15;
     font-weight: 700;
     margin-bottom: 21px;

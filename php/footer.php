@@ -1,20 +1,19 @@
 <footer class="footer footer-1 footer-bg">
-    <img src="assets/images/footer-bg.jpg" style="position: absolute;height:100%;width:100%;filter: opacity(0.35);" alt="">
+    <img src="assets/images/footer-bg.jpg" style="position: absolute;height:100%;width:100%;filter: opacity(0.2);" alt="">
     <div class="footer-top">
         <div class="container ">
             <div class="row ">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-2">
                     <div class="footer-widget widget-links">
                         <div class="footer-widget-title">
-                            <h5>company</h5>
+                            <h5>Map Enerjji</h5>
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="page-about.html">About Us</a></li>
-                                <li><a href="page-team.html">Meet Our Team</a></li>
-                                <li><a href="blog-grid.html">News & Media</a></li>
-                                <li><a href="projects-standard.html">Our Projects</a></li>
-                                <li><a href="page-contact.html">contact</a></li>
+                                <li><a href="hakkimizda.php">Anasayfa</a></li>
+                                <li><a href="page-team.html">Hakkımızda</a></li>
+                                <li><a href="blog-grid.html">Kariyer</a></li>
+                                <li><a href="projects-standard.html">İndirimli Elektrik Başvuru Formu</a></li>
                             </ul>
                         </div>
                     </div>
@@ -23,16 +22,18 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-2">
                     <div class="footer-widget widget-links">
                         <div class="footer-widget-title">
-                            <h5>Services</h5>
+                            <h5>Çözümlerimiz</h5>
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="services-turbines.html">Solar Panels</a></li>
-                                <li><a href="services-turbines.html">Wind Turbines</a></li>
-                                <li><a href="services-turbines.html">Hydropower Plants</a></li>
-                                <li><a href="services-turbines.html">Fossil Resources</a></li>
-                                <li><a href="services-turbines.html">Battery Materials</a></li>
-                                <li><a href="services-turbines.html">biofuels</a></li>
+                                <li><a href="services-turbines.html">Enerji IoT Platformu</a></li>
+                                <li><a href="services-turbines.html">Tarife Danışmanlığı</a></li>
+                                <li><a href="services-turbines.html">Elektrik Tedarik Danışmanlığı</a></li>
+                                <li><a href="services-turbines.html">Fatura Kontrol Danışmanlığı</a></li>
+                                <li><a href="services-turbines.html">Ag&Og Proje Çizimi</a></li>
+                                <li><a href="services-turbines.html">Kompanzasyon Takibi</a></li>
+                                <li><a href="services-turbines.html">Çatı ve Arazi Ges Kurulumu</a></li>
+                                <li><a href="services-turbines.html">Ges Arazi Satışı</a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,14 +42,13 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-5">
                     <div class="footer-widget widget-links widget-icon">
                         <div class="footer-widget-title">
-                            <h5>support</h5>
+                            <h5>İletişim</h5>
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="page-contact.html">Terms & Conditions</a></li>
-                                <li><a href="page-contact.html">Shipping Policy</a></li>
-                                <li><a href="page-contact.html">Delivery Tips</a></li>
-                                <li><a href="page-contact.html">Returns</a></li>
+                                <li><a href="iletisim.php">İletişim Formu</a></li>
+                                <li><a href="iletisim.php">Kariyer Formu</a></li>
+                                <li><a href="iletisim.php">İndirimli Elektrik Başvuru Formu</a></li>
                             </ul>
                         </div>
                     </div>
@@ -58,12 +58,12 @@
                     <div class="footer-widget widget-contact">
                         <div class="widget-content">
                             <ul>
-                                <li class="phone">+2<a href="tel:+01061245741"> 01061245741</a></li>
-                                <li class="email">Email: <a href="mailto:info@energia.com">info@energia.com</a></li>
+                                <li class="phone">+90<a href="tel:+90242 322 26 16"> 242 322 26 16</a></li>
+                                <li class="email">Email: <a href="mailto:info@mapenerji.com.tr">info@mapenerji.com.tr</a></li>
                                 <li class="address">
-                                    <p>2307 Beverley Rd Brooklyn, New York 11226 United States.</p>
+                                    <p>Yeşilbahçe Mah. 1448 Sok. No: 7 Naile Gülaçtı Apt. D:1  Muratapaşa / Antalya</p>
                                 </li>
-                                <li class="directions"><a href="page-contact.html"><i class="energia-location-Icon"></i>get directions</a></li>
+                                <li class="directions"><a href="iletisim.php"><i class="energia-location-Icon"></i>Harita</a></li>
                             </ul>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="footer-copyright">
-                        <div class="copyright"><span>&copy; 2021 energia by <a href="https://1.envato.market/kP9BV"> Zytheme.com</a>. all rights reserved. </span>
+                        <div class="copyright"><span>&copy; 2021  <a href="https://1.envato.market/kP9BV"> mapenerji.com.tr</a>. all rights reserved. </span>
                             <ul class="list-unstyled social-icons">
                                 <li> <a class="share-facebook" href="javascript:void(0)"><i class="energia-facebook"></i>facebook </a></li>
                                 <li> <a class="share-twitter" href="javascript:void(0)"><i class="energia-twitter"></i>twitter</a></li>

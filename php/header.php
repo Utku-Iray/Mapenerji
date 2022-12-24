@@ -15,17 +15,17 @@
                     <div class="top-contact">
                         <div class="contact-infos"><i class="energia-phone-Icon"></i>
                             <div class="contact-body">
-                                <p>phone: <a href="tel:123-456-7890">+55 654 541 17</a></p>
+                                <p>phone: <a href="tel:+905423222616">+90542 322 26 16</a></p>
                             </div>
                         </div>
                         <div class="contact-infos"><i class="energia-email--icon"></i>
                             <div class="contact-body">
-                                <p>email: <a href="mailto:info@energia.com">info@energia.com </a></p>
+                                <p>email: <a href="mailto:info@mapenerji.com.tr" style="text-transform: none !important;">info@mapenerji.com.tr </a></p>
                             </div>
                         </div>
                         <div class="contact-infos"><i class="energia-clock-Icon"></i>
                             <div class="contact-body">
-                                <p>hours: Mon-Fri: 8am – 7pm </p>
+                                <p>pzrt - cuma: 8:00 - 19:00</p>
                             </div>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                     <!-- Start .social-links-->
                     <div class="social-links"><a class="share-facebook" href="javascript:void(0)"><i class="energia-facebook"></i></a><a class="share-instagram" href="javascript:void(0)"><i class="energia-twitter"></i></a><a class="share-twitter" href="javascript:void(0)"><i class="energia-youtube"></i></a></div>
                     <!-- End .social-links-->
-                    <div class="topbar-links"><a href="blog-grid.html">news & media</a><a href="page-careers.html">careers</a><a href="page-faqs.html">FAQs</a></div>
+                    <!-- <div class="topbar-links"><a href="blog-grid.html">news & media</a><a href="page-careers.html">careers</a><a href="page-faqs.html">FAQs</a></div>
                     <div class="module module-language">
                         <div class="selected"><img src="assets/images/module-language/en.png" alt="En Language" /><span>english</span><i class="fas fa-chevron-down"></i></div>
                         <div class="lang-list">
@@ -43,7 +43,7 @@
                                 <li> <img src="assets/images/module-language/ar.png" alt="AR Language" /><a href="#">arabic</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu">
@@ -100,7 +100,7 @@
 
                         <!-- <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Hakkımızda</span></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item"><a href="page-about.html"><span>about us</span></a></li>
+                                <li class="nav-item"><a href="hakkimizda.php"><span>about us</span></a></li>
                                 <li class="nav-item"><a href="hakkimizda.php"><span>how it works</span></a></li>
                                 <li class="nav-item"><a href="page-team.html"><span>leadership team</span></a></li>
                                 <li class="nav-item"><a href="page-awards.html"><span>awards &amp; recognition</span></a></li>
@@ -123,14 +123,16 @@
                                 <li class="nav-item"><a href="services-controllers.html"><span>charge controllers</span></a></li> -->
                             </ul>
                         </li>
-                        <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Karıyer</span></a>
+                        <li class="nav-item" data-hover=""><a href="kariyer.php"><span>Kariyer</span></a></li>
+
+                        <!-- <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Karıyer</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="projects-standard.html"><span>projects standard</span></a></li>
                                 <li class="nav-item"><a href="projects-modern.html"><span>projects modern</span></a></li>
                                 <li class="nav-item"><a href="projects-grid.html"><span>projects grid</span></a></li>
                                 <li class="nav-item"><a href="projects-single.html"><span>project single</span></a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <!-- <li class="nav-item has-dropdown" data-hover=""><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>blog</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="blog-grid.html"><span>blog grid</span></a></li>
@@ -138,9 +140,9 @@
                                 <li class="nav-item"><a href="blog-single.html"><span>single blog post</span></a></li>
                             </ul>
                         </li> -->
-                        <li class="nav-item" data-hover=""><a href="page-contact.html"><span>İndirimli Elektrikli Başvuru Formu</span></a></li>
+                        <li class="nav-item" data-hover=""><a href="indirimli-elektrik-basvuru-formu.php"><span>İndirimli Elektrikli Başvuru Formu</span></a></li>
 
-                        <li class="nav-item" id="contact" data-hover=""><a href="page-contact.html"><span>contact</span></a></li>
+                        <li class="nav-item" id="contact" data-hover=""><a href="iletisim.php"><span>İletişim</span></a></li>
                     </ul>
                     <div class="module-holder">
                         <!-- <div class="module module-search">
@@ -168,8 +170,8 @@
                                 <div class="cart--control"> <a class="btn" href="shop-cart.html">view cart</a></div>
                             </div>
                         </div> -->
-                        <div class="module-contact"><a class="btn btn--primary " href="request-quote.html">
-                                request a quote<i class="energia-arrow-right"></i></a></div>
+                        <!-- <div class="module-contact"><a class="btn btn--primary " href="request-quote.html">
+                                request a quote<i class="energia-arrow-right"></i></a></div> -->
                     </div>
                     <!--  End .module-holder-->
                 </div>

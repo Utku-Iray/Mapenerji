@@ -34,7 +34,7 @@
         <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="true" data-dots="true" data-space="0" data-loop="true" data-speed="800">
             <!--  Start .slide-->
             <div class="slide bg-overlay bg-overlay-dark-slider">
-                <div class="bg-section"><img src="assets/images/sliders/1.jpg" alt="Background" /></div>
+                <div class="bg-section"><img src="assets/images/mapenerji/slider.JPG" alt="Background" /></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-lg-7">
@@ -56,7 +56,7 @@
                             <div class="slider-panel-holder">
                                 <div class="slider-panel"><i class="panel-icon flaticon-028-greenhouse"></i>
                                     <h5 class="panel-title">Servisler</h5>
-                                    <p class="panel-desc">Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor!</p><a href="page-about.html"><i class="energia-arrow-right"> </i></a>
+                                    <p class="panel-desc">Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor!</p><a href="hakkimizda.php"><i class="energia-arrow-right"> </i></a>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                             <div class="slider-panel-holder">
                                 <div class="slider-panel"><i class="panel-icon flaticon-019-electric-tower"></i>
                                     <h5 class="panel-title">Servisler</h5>
-                                    <p class="panel-desc">Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur.</p><a href="page-about.html"><i class="energia-arrow-right"> </i></a>
+                                    <p class="panel-desc">Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur.</p><a href="hakkimizda.php"><i class="energia-arrow-right"> </i></a>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                             <div class="block-left">
                                 <p class="paragraph">İşletmeniziniz enerji maliyetlerini düşürmenin yolu buradan geçiyor. </p>
                                 <p>MAP Enerji ve Danışmanlık olarak doğru tarife ve fiyatları tercih etme süreçlerinde uzman desteği sağlıyor, lisans sahibi elektrik şirketlerinin sunduğu hizmetlerle ilgili ilişkilerinizi yönetiyoruz. Elektrik faturalarınızın doğruluğunu kontrol ederken sektördeki maliyet düşürme fırsatlarını takip ederek sizi sürekli olarak bilgilendiriyoruz..
-                                </p><a class="btn btn--secondary" href="page-about.html">Daha Fazla <i class="energia-arrow-right"></i></a>
+                                </p><a class="btn btn--secondary" href="hakkimizda.php">Daha Fazla <i class="energia-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-12 col-lg-5">
@@ -150,9 +150,9 @@
                                 <div class="prief-set">
                                     <p>Aldığınız enerji hizmeti ile ilgili soru ve ihtiyaçlarınıza cevaplar mı arıyorsunuz?</p>
                                     <ul class="list-unstyled advantages-list">
-                                        <li>Danışmanlık Hizmeti </li>
-                                        <li>Çözümlemeler</li>
-                                        <li>Uygulamalar</li>
+                                        <li>Tarife Danışmanlık Hizmeti </li>
+                                        <li>İndirimli Elektrik Talebi</li>
+                                        <li>Ges Projeleri</li>
                                     </ul>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
       -->
 <section class="features features-1 bg-overlay bg-overlay-theme2" id="features-1">
     <div class="bg-section"> <img src="assets/images/background/2.jpg" alt="Background" /></div>
-    <div class="container">
+    <div class="container-fluid" style="padding: 50px;">
         <div class="heading heading-2 heading-light heading-light2">
             <!-- <div class="row">
                 <div class="col-12 col-lg-12">
@@ -187,60 +187,22 @@
                 <!-- <div class="col-12 col-lg-6 offset-lg-1">
                     <p class="heading-desc">While improving the yield and performance of solar energy products, our PV industry experience enables us to provide in-depth material sourcing, financing and supply chain expertise for every step.</p>
                     <p class="heading-desc">Raw polycrystalline silicon for PV manufacturing. Offered in various grades and formats including chunks, chips, powder and ingot.</p>
-                    <div class="actions-holder"><a class="btn btn--primary btn--inversed" href="page-contact.html">
-                            get started<i class="energia-arrow-right"></i></a><a class="btn btn--bordered btn--white" href="page-about.html">explore our plans</a></div>
+                    <div class="actions-holder"><a class="btn btn--primary btn--inversed" href="iletisim.php">
+                            get started<i class="energia-arrow-right"></i></a><a class="btn btn--bordered btn--white" href="hakkimizda.php">explore our plans</a></div>
                 </div> -->
             </div>
             <!-- End .row-->
         </div>
         <!-- End .heading-->
-        <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-rs="2" data-autoplay="true" data-nav="false" data-dots="true" data-space="25" data-loop="true" data-speed="700">
-            <div>
-                <div class="feature-panel-holder" data-hover="">
-                    <div class="feature-panel">
-                    <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
-                        <div class="feature-content">
-                            <h4>Save Your Money</h4>
-                            <p>Save money on utilities or increase the value of your home by installing solar panels as a great option.</p>
-                        </div><a href="page-about.html"><i class="energia-arrow-right"></i> <span>explore more</span> </a>
-                    </div>
-                    <!-- End .feature-panel-->
-                </div>
-            </div>
-            <div>
-                <div class="feature-panel-holder" data-hover="">
-                    <div class="feature-panel">
-                    <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
-                        <div class="feature-content">
-                            <h4>Home Is Energy</h4>
-                            <p>Everyday the sun provides us with abundance of free energy by placing solar panels on your roof.</p>
-                        </div><a href="page-about.html"><i class="energia-arrow-right"></i> <span>explore more</span> </a>
-                    </div>
-                    <!-- End .feature-panel-->
-                </div>
-            </div>
-            <div>
-                <div class="feature-panel-holder" data-hover="">
-                    <div class="feature-panel">
-                    <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
-                        <div class="feature-content">
-                            <h4>Consult &amp; Planning</h4>
-                            <p>Our remote industrial solar systems are designed to reliably power our clients critical.</p>
-                        </div><a href="page-about.html"><i class="energia-arrow-right"></i> <span>explore more</span> </a>
-                    </div>
-                    <!-- End .feature-panel-->
-                </div>
-            </div>
-        </div>
-        <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-rs="2" data-autoplay="true" data-nav="false" data-dots="true" data-space="25" data-loop="true" data-speed="1200">
+        <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-rs="2" data-autoplay="false" data-nav="false" data-dots="true" data-space="25" data-loop="true" data-speed="3700">
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
                         <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
                         <div class="feature-content">
-                            <h4>Save Your Money</h4>
-                            <p>Save money on utilities or increase the value of your home by installing solar panels as a great option.</p>
-                        </div><a href="page-about.html"><i class="energia-arrow-right"></i> <span>explore more</span> </a>
+                            <h4>Enerji IoT Platformu</h4>
+                            <p>Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor! </p>
+                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -248,11 +210,11 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                    <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
                         <div class="feature-content">
-                            <h4>Home Is Energy</h4>
-                            <p>Everyday the sun provides us with abundance of free energy by placing solar panels on your roof.</p>
-                        </div><a href="page-about.html"><i class="energia-arrow-right"></i> <span>explore more</span> </a>
+                            <h4>Tarife Danışmanlığı</h4>
+                            <p>Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur. Map Enerji ve Danışmanlık olarak kurum...  </p>
+                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -260,11 +222,49 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                    <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
                         <div class="feature-content">
-                            <h4>Consult &amp; Planning</h4>
-                            <p>Our remote industrial solar systems are designed to reliably power our clients critical.</p>
-                        </div><a href="page-about.html"><i class="energia-arrow-right"></i> <span>explore more</span> </a>
+                            <h4>Elektrik Tedarik Danışmanlığı</h4>
+                            <p>Enerji Satış lisansı sahibi şirketleri ile indirimli olarak enerji tedarik etmek, şirketinizin kârlılığını arttırmanın bir yoludur.</p>
+                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                    </div>
+                    <!-- End .feature-panel-->
+                </div>
+            </div>
+        </div>
+        <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-rs="2" data-autoplay="false" data-nav="false" data-dots="true" data-space="25" data-loop="true" data-speed="5200">
+            <div>
+                <div class="feature-panel-holder" data-hover="">
+                    <div class="feature-panel">
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-content">
+                            <h4>Fatura Kontrol Danışmanlığı</h4>
+                            <p>Sürekli değişen elektrik tarifelerini takip etmek, uygulanan indirimleri hesaplayarak sözleşmeye uygunluğunu kontrol...</p>
+                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                    </div>
+                    <!-- End .feature-panel-->
+                </div>
+            </div>
+            <div>
+                <div class="feature-panel-holder" data-hover="">
+                    <div class="feature-panel">
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-content">
+                            <h4>Çatı ve Arazi Ges Kurulumu</h4>
+                            <p>Çatılarınızın boş durması yerine yenilenebilir enerji kaynaklarının en popüleri olan Solar Enerji Sistemleri ile değerlendirerek...</p>
+                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                    </div>
+                    <!-- End .feature-panel-->
+                </div>
+            </div>
+            <div>
+                <div class="feature-panel-holder" data-hover="">
+                    <div class="feature-panel">
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-content">
+                            <h4>Ges Arazi Satışı</h4>
+                            <p>Enerji santrali kurmak isteyen Yatırımcıların Dikkatine! Şirketimiz bünyesinde bulunan araziler hakkında... </p>
+                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -273,7 +273,7 @@
         <!-- <div class="row">
             <div class="col-12 col-lg-4">
                 <div class="more-features">
-                    <p>If you have any questions or need help, feel free to contact with our team, or you can call us any time <a href="tel:01061245741">(002) 01061245741</a></p><a class="btn btn--bordered btn--white" href="page-about.html">
+                    <p>If you have any questions or need help, feel free to contact with our team, or you can call us any time <a href="tel:01061245741">(002) 01061245741</a></p><a class="btn btn--bordered btn--white" href="hakkimizda.php">
                         free estimate<i class="energia-arrow-right"></i></a>
                 </div>
             </div>
@@ -292,196 +292,13 @@
       services #1 Section
       ============================
       -->
-<section class="services services-1 bg-grey" id="services-1">
-    <div class="container">
-       
-        <!-- End .heading-->
-        <div class="carousel owl-carousel carousel-dots dots-side" data-slide="3" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="true" data-space="30" data-loop="true" data-speed="800">
-            <div>
-                <div class="service-panel">
-                    <div class="service-icon"><i class="flaticon-004-solar-panel"></i></div>
-                    <div class="service-content">
-                        <h4><a href="services-turbines.html">solar panels<br />services</a></h4>
-                        <p>The great thing about solar panels is that they do not require a lot of maintenance. However, still important to get them checked regularly</p>
-                        <ul class="list-unstyled advantages-list">
-                            <li>cleaning of inverter</li>
-                            <li>perform shading tests</li>
-                            <li>90 days repairs warranty</li>
-                        </ul><a class="btn btn--secondary" href="services-turbines.html">read more <i class="energia-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End .service-panel-->
-            </div>
-            <div>
-                <div class="service-panel">
-                    <div class="service-icon"><i class="flaticon-039-wind-mill"></i></div>
-                    <div class="service-content">
-                        <h4><a href="services-turbines.html">wind turbines<br />services</a></h4>
-                        <p>Wind turbine is an expensive machine, we know very well how important it is that your wind turbine is always up whenever there is wind.</p>
-                        <ul class="list-unstyled advantages-list">
-                            <li>proactive is better</li>
-                            <li>lower costs for you</li>
-                            <li>maintenance warranty</li>
-                        </ul><a class="btn btn--secondary" href="services-turbines.html">read more <i class="energia-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End .service-panel-->
-            </div>
-            <div>
-                <div class="service-panel">
-                    <div class="service-icon"><i class="flaticon-013-hydro-power"></i></div>
-                    <div class="service-content">
-                        <h4><a href="services-turbines.html">hydropower plants<br />services</a></h4>
-                        <p>Hydropower systems are capital intensive assets can produce a significant income provided operated and maintained on high standard.</p>
-                        <ul class="list-unstyled advantages-list">
-                            <li>optimization of assets</li>
-                            <li>operation &amp; maintenance</li>
-                            <li>digitaliztion &amp; automation</li>
-                        </ul><a class="btn btn--secondary" href="services-turbines.html">read more <i class="energia-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End .service-panel-->
-            </div>
-            <div>
-                <div class="service-panel">
-                    <div class="service-icon"><i class="flaticon-004-solar-panel"></i></div>
-                    <div class="service-content">
-                        <h4><a href="services-turbines.html">solar panels<br />services</a></h4>
-                        <p>The great thing about solar panels is that they do not require a lot of maintenance. However, still important to get them checked regularly</p>
-                        <ul class="list-unstyled advantages-list">
-                            <li>cleaning of inverter</li>
-                            <li>perform shading tests</li>
-                            <li>90 days repairs warranty</li>
-                        </ul><a class="btn btn--secondary" href="services-turbines.html">read more <i class="energia-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End .service-panel-->
-            </div>
-        </div>
-        <!-- End .carousel-->
-        <div class="more-services">
-            <p>Sustainable, reliable & affordable energy systems, <a href="page-services.html">Find Your Solution Now! </a></p>
-        </div>
-        <!-- End more-services-->
-    </div>
-    <!-- End .container-->
-</section>
+
 <!--
       ============================
       Counters #1 Section
       ============================
       -->
-      <section class="contact contact-1 bg-overlay bg-overlay-theme" id="contact-1">
-    <div class="bg-section"><img src="assets/images/background/3.jpg" alt="background" /></div>
-    <div class="container">
-        <div class="contact-panel contact-panel-3">
-            <div class="heading heading-light heading-6">
-                <p class="heading-subtitle">Improving The Performance Of Solar Energy.</p>
-                <h2 class="heading-title">Discover Independence Through Using The Power Of Solar Panels!</h2>
-                <p class="heading-desc">We offer products, solutions, and services across the entire energy value chain. We support our customers on their way to a more sustainable future – no matter how far along the journey to energize society with affordable energy
-                    systems.
-                </p>
-                <div class="advantages-list-holder">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <ul class="list-unstyled advantages-list advantages-list-2">
-                                <li>Reliabe and performance</li>
-                                <li>Solar material financing</li>
-                                <li>In-time manufacturing</li>
-                            </ul>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="list-unstyled advantages-list advantages-list-2">
-                                <li>50% more energy output</li>
-                                <li>Built using ntype mono</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="contact-action"><a class="btn btn--white" href="page-about.html">learn more <i class="energia-arrow-right"></i></a><a class="btn btn--bordered btn--white" href="page-faqs.html">our core values</a></div>
-                <div class="contact-quote"> <img src="assets/images/icons/noteicon.png" alt="icon" />
-                    <p>Receive an accurate quote within 3-5 days when you fill out this form. Or, give us a call: <a href="tel:01061245741">(002) 01061245741</a></p>
-                </div>
-            </div>
-            <div class="contact-card">
-                <div class="contact-body">
-                    <h5 class="card-heading">Request A Quote</h5>
-                    <p class="card-desc">We take great pride in everything that we do, control over products allows us to ensure our customers receive the best quality service.</p>
-                    <form class="contactForm" method="post" action="assets/php/contact.php">
-                        <div class="row">
-                            <div class="col-12 col-md-6">
-                                <label class="form-label" for="select-1">Who will be install system?</label>
-                                <select class="form-control" id="select-1">
-                                    <option value="default">local contractor</option>
-                                    <option value="AL">foreign contractor </option>
-                                </select>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <label class="form-label" for="select-2">System completed by?</label>
-                                <select class="form-control" id="select-2">
-                                    <option value="default">3:6 months</option>
-                                    <option value="AL">6:12 months</option>
-                                    <option value="AK">12:24 months</option>
-                                </select>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <label class="form-label" for="contact-usage">Monthly electric usage in kWh?</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="1254 KWH" required="" />
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <label class="form-label" for="select-3">Solar system type?</label>
-                                <select class="form-control" id="select-3">
-                                    <option value="default">OffGrid</option>
-                                    <option value="AL">OnGrid</option>
-                                </select>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <label class="form-label" for="select-4">Solar panels place?</label>
-                                <select class="form-control" id="select-4">
-                                    <option value="default">huge farm</option>
-                                    <option value="AL">small farm</option>
-                                </select>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <label class="form-label" for="select-5">Materials on your roof?</label>
-                                <select class="form-control" id="select-5">
-                                    <option value="default">comp shingle</option>
-                                    <option value="AL">roof shingle</option>
-                                </select>
-                            </div>
-                            <div class="col-12">
-                                <label class="form-label">Preferred Contact Method</label>
-                                <div class="custom-radio-group" id="custom-radio-group">
-                                    <div class="custom-control">
-                                        <input class="custom-control-input" type="radio" id="customRadioInline1" name="customRadioInline1" />
-                                        <label for="customRadioInline1">all</label>
-                                    </div>
-                                    <div class="custom-control">
-                                        <input class="custom-control-input" type="radio" id="customRadioInline2" name="customRadioInline1" />
-                                        <label for="customRadioInline2">email</label>
-                                    </div>
-                                    <div class="custom-control">
-                                        <input class="custom-control-input" type="radio" id="customRadioInline3" name="customRadioInline1" />
-                                        <label for="customRadioInline3">phone</label>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <button class="btn btn--secondary w-100">submit request <i class="energia-arrow-right"></i></button>
-                            </div>
-                            <div class="col-12">
-                                <div class="contact-result"></div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <!-- End .contact-body -->
-            </div>
-        </div>
-        <!-- End .contact-panel-->
-    </div>
-    <!-- End .container-->
-</section>
+
 <!--
       ============================
       Testimonials #1 Section
@@ -576,7 +393,7 @@
       -->
 
 
-      <?php include 'php/footer.php' ?>
+<?php include 'php/footer.php' ?>
 
 </body>
 

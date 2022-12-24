@@ -66,16 +66,11 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container">
+    <div class="container-fluid" style="padding: 100px;">
         <div class="row">
-            <div class="col-12 col-lg-4 order-1">
-                <!-- 
-              ============================
-              Services Sidebar
-              ============================
-              -->
+            <!-- <div class="col-12 col-lg-4 order-1">
+          
                 <div class="sidebar sidebar-service">
-                    <!-- Services-->
                     <div class="widget widget-services">
                         <div class="widget-title">
                             <h5>our services</h5>
@@ -109,20 +104,18 @@
                             </ul>
                         </div>
                     </div>
-                    <!-- End .widget-services -->
-                    <!-- Reservation-->
+                
                     <div class="widget widget-reservation"><img src="assets/images/blog/sidebar/reservation.jpg" alt="img" />
                         <div class="widget-content"><i class="flaticon-040-green-energy"></i>
-                            <p>Please feel welcome to contact our friendly reception staff with any general or medical enquiry call us</p><a class="btn btn--bordered btn--white" href="page-contact.html">schedule an appintment</a>
+                            <p>Please feel welcome to contact our friendly reception staff with any general or medical enquiry call us</p><a class="btn btn--bordered btn--white" href="iletisim.php">schedule an appintment</a>
                             <a href="tel:0106123214"><span class="energia-phone-Icon"></span> 0106123214</a>
                         </div>
                     </div>
-                    <!-- End .widget-reservation-->
 
                 </div>
-                <!-- End .sidebar-->
-            </div>
-            <div class="col-12 col-lg-8 order-0 order-lg-2">
+               
+            </div> -->
+            <div class="col-12 col-lg-12 order-0 order-lg-2">
                 <!-- Start .service-entry-->
                 <div class="service-entry">
                     <div class="entry-content">
@@ -141,11 +134,12 @@
                         <div class="entry-stats entry-infos">
                             <h2> Uygulamalar</h2>
                             <div class="row">
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
 
                                     <ul class="services-list">
-                                        <h3 class="entry-heading">1- Enerji İzleme ve Performans Analizi </h3>
+                                        <h3 class="entry-heading"> Enerji İzleme ve Performans Analizi </h3>
 
                                         <h5>Faydalar</h5>
 
@@ -166,17 +160,17 @@
                                         <li>Reaktif limit analizi.</li>
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
-                                    <h3 class="entry-heading">2- Portföy Yönetimi </h3>
+                                    <h3 class="entry-heading"> Portföy Yönetimi </h3>
 
                                     <ul class="services-list">
                                         <h5>Faydalar</h5>
@@ -202,11 +196,12 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
 
                                     <ul class="services-list">
-                                        <h3 class="entry-heading">3- Alarm ve Bildirim Yönetimi </h3>
+                                        <h3 class="entry-heading">Alarm ve Bildirim Yönetimi </h3>
 
                                         <h5>Temel Faydalar</h5>
 
@@ -224,17 +219,18 @@
 
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
-                                    <h3 class="entry-heading">4- Fatura Yönetimi </h3>
+                                    <h3 class="entry-heading">Fatura Yönetimi </h3>
                                     <ul class="services-list">
                                         <h5>Faydalar</h5>
 
@@ -260,11 +256,12 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
 
                                     <ul class="services-list">
-                                        <h3 class="entry-heading">5- Özelleştirilmiş Raporlama</h3>
+                                        <h3 class="entry-heading">Özelleştirilmiş Raporlama</h3>
 
                                         <h5>Temel Faydalar</h5>
 
@@ -283,17 +280,18 @@
 
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
-                                    <h3 class="entry-heading">6- Güneş Santrali İzleme ve Yönetimi </h3>
+                                    <h3 class="entry-heading"> Güneş Santrali İzleme ve Yönetimi </h3>
                                     <ul class="services-list">
                                         <h5>Faydalar</h5>
 
@@ -317,11 +315,12 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6">
 
                                     <ul class="services-list">
-                                        <h3 class="entry-heading">7- Kritik Güç Altyapısı İzleme</h3>
+                                        <h3 class="entry-heading"> Kritik Güç Altyapısı İzleme</h3>
 
                                         <h5>Temel Faydalar</h5>
 
@@ -344,90 +343,13 @@
 
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji-iot-platformu.jpg" alt="Chart image" /></div>
-                            </div>
-                        </div>
-                        <div class="entry-processes">
-                            <div class="entry-body">
-                                <div class="process-icon">
-                                    <div class="bg-section"> <img src="assets/images/counters/1.jpg" alt="img" /></div><i class="flaticon-020-factory"></i>
-                                </div>
-                                <div class="processes processes-2">
-                                    <div class="processes-holder">
-                                        <div class="carousel owl-carousel carousel-dots process-content-carousel" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="true" data-space="0" data-loop="false" data-speed="800">
-                                            <div>
-                                                <div class="process-panel process-panel-dark">
-                                                    <div class="process-body">
-                                                        <div class="process-content">
-                                                            <h5>01. we design &amp; ship</h5>
-                                                            <p>We collaborate with you to design and deliver a system that meets your utility usage and needs, We also selecting equipment from 66+ manufacturers so you do not have to be worried or
-                                                                compromise with your money or with your effort.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div>
-                                                <div class="process-panel process-panel-dark">
-                                                    <div class="process-body">
-                                                        <div class="process-content">
-                                                            <h5>02. contract or install</h5>
-                                                            <p>Whether you want to install the system or hire local contractors, managing installation yourself ensures the fastest return on your solar investment.We deliver a system that meets your
-                                                                utility usage and needs, We also selecting equipment from.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div>
-                                                <div class="process-panel process-panel-dark">
-                                                    <div class="process-body">
-                                                        <div class="process-content">
-                                                            <h5>03. power your home</h5>
-                                                            <p>Even after your system is installed and operating, you can always count on Wholesale Solar to provide the support you need, just contact us at any time, and we will be there for you.
-                                                                Whether you want to install the system or hire local contractors.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="images-holder">
-                                <div class="carousel owl-carousel process-image-carousel" data-slide="1" data-slide-rs="1" data-autoplay="true" data-drag="false" data-nav="true" data-dots="false" data-space="0" data-loop="false" data-speed="800"><img src="assets/images/processes/1.jpg" alt="process" /><img src="assets/images/processes/2.jpg" alt="process" /><img src="assets/images/processes/3.jpg" alt="process" /></div>
-                            </div>
-                        </div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                        <div class="entry-benefits entry-infos">
-                            <h5 class="entry-heading">key benefits</h5>
-                            <div class="accordion accordion-2" id="accordion03">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="card">
-                                            <div class="card-heading"><a class="card-link collapsed" data-hover="" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse01-1" href="#collapse01-1">Which Plan Is Right For Me?</a></div>
-                                            <div class="collapse" id="collapse01-1" data-bs-parent="#accordion03">
-                                                <div class="card-body">With any financial product that you buy, it is important that you know you are getting the best advice from a reputable company as often you will have to</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="card">
-                                            <div class="card-heading"><a class="card-link collapsed" data-hover="" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse01-2" href="#collapse01-2">Do I have to commit to a contract? </a></div>
-                                            <div class="collapse" id="collapse01-2" data-bs-parent="#accordion03">
-                                                <div class="card-body">With any financial product that you buy, it is important that you know you are getting the best advice from a reputable company as often you will have to</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="card active-acc">
-                                            <div class="card-heading"><a class="card-link  " data-hover="" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse01-3" href="#collapse01-3">What Payment Methods Are Available? </a></div>
-                                            <div class="collapse show" id="collapse01-3" data-bs-parent="#accordion03">
-                                                <div class="card-body">With any financial product that you buy, it is important that you know you are getting the best advice from a reputable company as often you will have to</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
+                       
+
+                     
 
                     </div>
                 </div>

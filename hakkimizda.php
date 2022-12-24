@@ -99,11 +99,11 @@
             <div class="col-12 col-lg-5 offset-lg-1">
                 <div class="about-img">
                     <div class="about-img-holder bg-overlay">
-                        <div class="bg-section"><img src="assets/images/mapenerji/hakkimizda-2.jpg" alt="about Image" /></div>
+                        <div class="bg-section"><img src="assets/images/mapenerji/hakkimizda2.jpg" alt="about Image" /></div>
                     </div>
                     <!-- Start .counter-->
                     <div class="counter counter-4">
-                        <div class="counter-num"> <span class="counting" data-counterup-nums="25">15</span>
+                        <div class="counter-num"> <span class="counting" data-counterup-nums="25">11</span>
                             <p>+</p>
                             <h6>Yıllık Tecrübe</h6>
                         </div>
@@ -123,30 +123,7 @@
       -->
 <section class="counters counters-1 bg-overlay bg-overlay-theme2" id="counters-1" style="margin-bottom: 100px;">
     <div class="bg-section"> <img src="assets/images/background/2.jpg" alt="Background" /></div>
-    <div class="container">
-        <div class="heading heading-4 heading-light heading-light2">
-            <div class="row">
-                <div class="col-12 col-lg-5">
-                    <p class="heading-subtitle">Pioneers Of Solar & Renewable Energy!</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-5">
-                    <h2 class="heading-title">Commercial, Residential & Industrial Systems!</h2>
-                </div>
-                <div class="col-12 col-lg-6 offset-lg-1">
-                    <p class="heading-desc">Today, our company is one of the most important PV suppliers in the North America and Europe. Our sales offices and warehouses include PV industry experience enables us to provide in-depth material sourcing and supply chain
-                        expertise for every step of production and installation process.</p>
-                    <div class="actions-holder"><a class="btn btn--primary btn--inversed" href="page-contact.html">
-                            awards & milestones<i class="energia-arrow-right"></i></a></div>
-                </div>
-            </div>
-            <!-- End .row-->
-        </div>
-        <!-- End .heading-->
-
-        <!-- End .row-->
-    </div>
+   
     <!-- End .container--><div class="container">
         <div class="row">
             <div class="col-12">
@@ -155,9 +132,9 @@
                         <div class="cta-icon"> <i class="energia-phone-Icon"></i></div>
                     </div>
                     <div class="cta-body">
-                        <h5>Save Money, Save Environment!</h5>
+                        <h5>Bizimle İletişime Geçin</h5>
                         <div class="cta-content">
-                            <p>Solar power makes energy independence possible. If you have any questions or need help, feel free to contact (002) 01061245741.</p><a class="btn btn--bordered btn--white" href="request-quote.html">free estimate <i class="energia-arrow-right"></i></a>
+                            <p>MAP Enerji ve Danışmanlık olarak doğru tarife ve fiyatları tercih etme süreçlerinde uzman desteği sağlıyor, lisans sahibi elektrik şirketlerinin sunduğu hizmetlerle ilgili ilişkilerinizi yönetiyoruz.</p><a class="btn btn--bordered btn--white" href="request-quote.html">İletişim Sayfası <i class="energia-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
