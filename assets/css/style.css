@@ -12910,7 +12910,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 .contact-card .contact-body .card-desc {
     font-family: var(--global--font-body);
     font-weight: 400;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 25px;
     color: var(--global--color-body);
     margin-bottom: 28px;
@@ -14855,6 +14855,10 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 
 .service-single .service-entry .entry-content .entry-infos {
     margin-bottom: 66px;
+}
+
+.service-single .service-entry .entry-content .entry-infos p {
+    font-size: 20px;
 }
 
 @media screen and (max-width: 991.98px) {
@@ -18960,4 +18964,9 @@ ul.dropdown-menu>li.has-dropdown>a:before {
     font-size: large;
     list-style: disc !important;
     margin-bottom: 5px;
+}
+
+.text-auto-center {
+    margin-top: auto;
+    margin-bottom: auto;
 }

@@ -48,7 +48,7 @@
                 <div class="col-12">
                     <div class="breadcrumb-wrap">
                         <ol class="breadcrumb breadcrumb-light d-flex">
-                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item"><a href="index.php">Anasayfa</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Enerji IoT Platformu</li>
                         </ol>
                     </div>
@@ -66,7 +66,7 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container-fluid" style="padding: 100px;">
+    <div class="container-fluid" style="padding:0px 100px;">
         <div class="row">
             <!-- <div class="col-12 col-lg-4 order-1">
           
@@ -136,7 +136,7 @@
                             <div class="row">
                             <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
 
                                     <ul class="services-list">
                                         <h3 class="entry-heading"> Enerji İzleme ve Performans Analizi </h3>
@@ -169,7 +169,7 @@
 
                                 <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Portföy Yönetimi </h3>
 
                                     <ul class="services-list">
@@ -198,7 +198,7 @@
                             <div class="row">
                             <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
 
                                     <ul class="services-list">
                                         <h3 class="entry-heading">Alarm ve Bildirim Yönetimi </h3>
@@ -229,7 +229,7 @@
 
                                 <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading">Fatura Yönetimi </h3>
                                     <ul class="services-list">
                                         <h5>Faydalar</h5>
@@ -258,7 +258,7 @@
                             <div class="row">
                             <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
 
                                     <ul class="services-list">
                                         <h3 class="entry-heading">Özelleştirilmiş Raporlama</h3>
@@ -290,7 +290,7 @@
 
                                 <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Güneş Santrali İzleme ve Yönetimi </h3>
                                     <ul class="services-list">
                                         <h5>Faydalar</h5>
@@ -317,7 +317,7 @@
                             <div class="row">
                             <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
 
-                                <div class="col-12 col-lg-6">
+                                <div class="col-12 col-lg-6 text-auto-center">
 
                                     <ul class="services-list">
                                         <h3 class="entry-heading"> Kritik Güç Altyapısı İzleme</h3>

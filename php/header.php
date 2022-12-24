@@ -114,6 +114,13 @@
                         <li class="nav-item has-dropdown" id="departments" data-hover=""><a class="dropdown-toggle" href="page-services.html" data-toggle="dropdown"><span>Çözümlerimiz</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="enerji-iot-platformu.php"><span>Enerji IoT Platformu</span></a></li>
+                                <li class="nav-item"><a href="tarife-danismanligi.php"><span>Tarife Danışmanlığı</span></a></li>
+                                <li class="nav-item"><a href="elektrik-tedarik-danismanligi.php"><span>Elektrik Tedavi Danışmanlığı</span></a></li>
+                                <li class="nav-item"><a href="fatura-kontrol-danismanligi.php"><span>Fatura Kontrol Danışmanlığı</span></a></li>
+                                <li class="nav-item"><a href="ag-og-proje-cizimi.php"><span>AG & OG Proje Çizimi</span></a></li>
+                                <li class="nav-item"><a href="kompanzasyon-takibi.php"><span>Kompanzasyon Takibi</span></a></li>
+                                <li class="nav-item"><a href="cati-ve-arazi-ges-kurulumu.php"><span>Çatı ve Arazi Ges Kurulumu</span></a></li>
+                                <li class="nav-item"><a href="ges-arazi-satis.php"><span>Ges Arazi Satış</span></a></li>
 
                                 <!-- <li class="nav-item"><a href="services-turbines.html"><span>wind generators</span></a></li>
                                 <li class="nav-item"><a href="services-solar.html"><span>solar pv materials</span></a></li>
