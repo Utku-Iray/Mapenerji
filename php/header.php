@@ -1,7 +1,7 @@
 <body>
-    <div class="preloader">
+    <!-- <div class="preloader">
         <div class="dual-ring"></div>
-    </div>
+    </div> -->
     <!-- Document Wrapper-->
     <div class="wrapper clearfix" id="wrapperParallax">
         <!-- 
@@ -32,7 +32,9 @@
                 </div>
                 <div class="block-right">
                     <!-- Start .social-links-->
-                    <div class="social-links"><a class="share-facebook" href="javascript:void(0)"><i class="energia-facebook"></i></a><a class="share-instagram" href="javascript:void(0)"><i class="energia-twitter"></i></a><a class="share-twitter" href="javascript:void(0)"><i class="energia-youtube"></i></a></div>
+                    <div class="social-links">
+                    <a class="share-instagram" href="https://instagram.com/mapenerji"><i style="font-size:x-large" class="fab fa-instagram"></i></a>
+                  </div>
                     <!-- End .social-links-->
                     <!-- <div class="topbar-links"><a href="blog-grid.html">news & media</a><a href="page-careers.html">careers</a><a href="page-faqs.html">FAQs</a></div>
                     <div class="module module-language">
@@ -115,7 +117,7 @@
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="enerji-iot-platformu.php"><span>Enerji IoT Platformu</span></a></li>
                                 <li class="nav-item"><a href="tarife-danismanligi.php"><span>Tarife Danışmanlığı</span></a></li>
-                                <li class="nav-item"><a href="elektrik-tedarik-danismanligi.php"><span>Elektrik Tedavi Danışmanlığı</span></a></li>
+                                <li class="nav-item"><a href="elektrik-tedarik-danismanligi.php"><span>Elektrik Tedarik Danışmanlığı</span></a></li>
                                 <li class="nav-item"><a href="fatura-kontrol-danismanligi.php"><span>Fatura Kontrol Danışmanlığı</span></a></li>
                                 <li class="nav-item"><a href="ag-og-proje-cizimi.php"><span>AG & OG Proje Çizimi</span></a></li>
                                 <li class="nav-item"><a href="kompanzasyon-takibi.php"><span>Kompanzasyon Takibi</span></a></li>

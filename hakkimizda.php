@@ -134,7 +134,7 @@
                     <div class="cta-body">
                         <h5>Bizimle İletişime Geçin</h5>
                         <div class="cta-content">
-                            <p>MAP Enerji ve Danışmanlık olarak doğru tarife ve fiyatları tercih etme süreçlerinde uzman desteği sağlıyor, lisans sahibi elektrik şirketlerinin sunduğu hizmetlerle ilgili ilişkilerinizi yönetiyoruz.</p><a class="btn btn--bordered btn--white" href="request-quote.html">İletişim Sayfası <i class="energia-arrow-right"></i></a>
+                            <p>MAP Enerji ve Danışmanlık olarak doğru tarife ve fiyatları tercih etme süreçlerinde uzman desteği sağlıyor, lisans sahibi elektrik şirketlerinin sunduğu hizmetlerle ilgili ilişkilerinizi yönetiyoruz.</p><a class="btn btn--bordered btn--white" href="iletisim.php">İletişim Sayfası <i class="energia-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

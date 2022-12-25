@@ -10,10 +10,10 @@
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="hakkimizda.php">Anasayfa</a></li>
-                                <li><a href="page-team.html">Hakkımızda</a></li>
-                                <li><a href="blog-grid.html">Kariyer</a></li>
-                                <li><a href="projects-standard.html">İndirimli Elektrik Başvuru Formu</a></li>
+                                <li><a href="index.php">Anasayfa</a></li>
+                                <li><a href="hakkimizda.html">Hakkımızda</a></li>
+                                <li><a href="kariyer.php">Kariyer</a></li>
+                                <li><a href="indirimli-elektrik-basvuru-formu.php">İndirimli Elektrik Başvuru Formu</a></li>
                             </ul>
                         </div>
                     </div>
@@ -26,14 +26,14 @@
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="services-turbines.html">Enerji IoT Platformu</a></li>
-                                <li><a href="services-turbines.html">Tarife Danışmanlığı</a></li>
-                                <li><a href="services-turbines.html">Elektrik Tedarik Danışmanlığı</a></li>
-                                <li><a href="services-turbines.html">Fatura Kontrol Danışmanlığı</a></li>
-                                <li><a href="services-turbines.html">Ag&Og Proje Çizimi</a></li>
-                                <li><a href="services-turbines.html">Kompanzasyon Takibi</a></li>
-                                <li><a href="services-turbines.html">Çatı ve Arazi Ges Kurulumu</a></li>
-                                <li><a href="services-turbines.html">Ges Arazi Satışı</a></li>
+                                <li><a href="enerji-iot-platformu.php">Enerji IoT Platformu</a></li>
+                                <li><a href="tarife-danismanligi.php">Tarife Danışmanlığı</a></li>
+                                <li><a href="elektrik-tedarik-danismanligi.php">Elektrik Tedarik Danışmanlığı</a></li>
+                                <li><a href="fatura-kontrol-danismanligi.php">Fatura Kontrol Danışmanlığı</a></li>
+                                <li><a href="ag-og-proje-cizimi.php">Ag&Og Proje Çizimi</a></li>
+                                <li><a href="kompanzasyon-takibi.php">Kompanzasyon Takibi</a></li>
+                                <li><a href="cati-arazi-ges-kurulumu.php">Çatı ve Arazi Ges Kurulumu</a></li>
+                                <li><a href="ges-arazi-satis.php">Ges Arazi Satışı</a></li>
                             </ul>
                         </div>
                     </div>
@@ -47,8 +47,8 @@
                         <div class="widget-content">
                             <ul>
                                 <li><a href="iletisim.php">İletişim Formu</a></li>
-                                <li><a href="iletisim.php">Kariyer Formu</a></li>
-                                <li><a href="iletisim.php">İndirimli Elektrik Başvuru Formu</a></li>
+                                <li><a href="kariyer.php">Kariyer Formu</a></li>
+                                <li><a href="indirimli-elektrik-basvuru-formu.php">İndirimli Elektrik Başvuru Formu</a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
             <!-- End .row-->
         </div>
         <!--  End .container-->
-    </div>
+    </div>s
     <!--  End .footer-top-->
     <div class="footer-bottom">
         <div class="container">
@@ -81,10 +81,12 @@
                 <div class="col-12">
                     <div class="footer-copyright">
                         <div class="copyright"><span>&copy; 2021  <a href="https://1.envato.market/kP9BV"> mapenerji.com.tr</a>. all rights reserved. </span>
-                            <ul class="list-unstyled social-icons">
-                                <li> <a class="share-facebook" href="javascript:void(0)"><i class="energia-facebook"></i>facebook </a></li>
-                                <li> <a class="share-twitter" href="javascript:void(0)"><i class="energia-twitter"></i>twitter</a></li>
-                                <li> <a class="share-youtube" href="javascript:void(0)"><i class="energia-youtube"></i>youtube</a></li>
+                            <ul class="list-unstyled social-icons" style="display:flex;position:relative">
+                                <!-- <li> <a class="share-facebook" href="javascript:void(0)"><i class="energia-facebook"></i>facebook </a></li>
+                                <li> <a class="share-twitter" href="javascript:void(0)"><i class="energia-twitter"></i>twitter</a></li> -->
+                                <li> <a class="share-twitter" href="https://instagram.com/mapenerji"><i class="fab fa-instagram"></i>İnstagram</a></li>
+
+                                <!-- <li> <a class="share-youtube" href="javascript:void(0)"><i class="energia-youtube"></i>youtube</a></li> -->
                             </ul>
                         </div>
                     </div>

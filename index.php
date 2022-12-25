@@ -34,7 +34,7 @@
         <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="true" data-dots="true" data-space="0" data-loop="true" data-speed="800">
             <!--  Start .slide-->
             <div class="slide bg-overlay bg-overlay-dark-slider">
-                <div class="bg-section"><img src="assets/images/mapenerji/slider.JPG" alt="Background" /></div>
+                <div class="bg-section"><img src="assets/images/mapenerji/slider1-blur.jpg" alt="Background" /></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-lg-7">
@@ -47,7 +47,7 @@
                                         <div class="icon"> <i class="flaticon-020-factory"></i></div>
                                         <div class="icon"> <i class="flaticon-031-nuclear-plant"></i></div>
                                     </div>
-                                    <a class="btn btn--primary" href="page-services.html"> <span>Servisler</span><i class="energia-arrow-right"></i></a>
+                                    <a class="btn btn--primary" href="enerji-iot-platformu.php"> <span>Servisler</span><i class="energia-arrow-right"></i></a>
                                 </div>
                             </div>
                             <!-- End .slide-content -->
@@ -56,7 +56,7 @@
                             <div class="slider-panel-holder">
                                 <div class="slider-panel"><i class="panel-icon flaticon-028-greenhouse"></i>
                                     <h5 class="panel-title">Servisler</h5>
-                                    <p class="panel-desc">Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor!</p><a href="hakkimizda.php"><i class="energia-arrow-right"> </i></a>
+                                    <p class="panel-desc">Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor!</p><a href="enerji-iot-platformu.php"><i class="energia-arrow-right"> </i></a>
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
             <!-- End .slide-->
             <!--  Start .slide-->
             <div class="slide bg-overlay bg-overlay-dark-slider">
-                <div class="bg-section"><img src="assets/images/sliders/2.jpg" alt="Background" /></div>
+                <div class="bg-section"><img src="assets/images/mapenerji/slider2-blur.jpg" alt="Background" /></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-lg-7">
@@ -81,7 +81,7 @@
                                         <div class="icon"> <i class="flaticon-020-factory"></i></div>
                                         <div class="icon"> <i class="flaticon-031-nuclear-plant"></i></div>
                                     </div>
-                                    <a class="btn btn--primary" href="page-services.html"> <span>Servisler</span><i class="energia-arrow-right"></i></a>
+                                    <a class="btn btn--primary" href="tarife-danismanligi.php"> <span>Servisler</span><i class="energia-arrow-right"></i></a>
                                 </div>
                             </div>
                             <!-- End .slide-content -->
@@ -90,7 +90,71 @@
                             <div class="slider-panel-holder">
                                 <div class="slider-panel"><i class="panel-icon flaticon-019-electric-tower"></i>
                                     <h5 class="panel-title">Servisler</h5>
-                                    <p class="panel-desc">Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur.</p><a href="hakkimizda.php"><i class="energia-arrow-right"> </i></a>
+                                    <p class="panel-desc">Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur.</p><a href="tarife-danismanligi.php"><i class="energia-arrow-right"> </i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--  End .row-->
+                </div>
+                <!-- End .container-->
+            </div>
+            <div class="slide bg-overlay bg-overlay-dark-slider">
+                <div class="bg-section"><img src="assets/images/mapenerji/slider2-blur.jpg" alt="Background" /></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-lg-7">
+                            <div class="slide-content">
+                                <h1 class="slide-headline">Elektrik Tedarik Danışmanlığı</h1>
+                                <p class="slide-desc">Enerji Satış lisansı sahibi şirketleri ile indirimli olarak enerji tedarik etmek, şirketinizin kârlılığını arttırmanın bir yoludur. </p>
+                                <div class="slide-action">
+                                    <div class="slide-list">
+                                        <div class="icon"> <i class="flaticon-040-green-energy"></i></div>
+                                        <div class="icon"> <i class="flaticon-020-factory"></i></div>
+                                        <div class="icon"> <i class="flaticon-031-nuclear-plant"></i></div>
+                                    </div>
+                                    <a class="btn btn--primary" href="elektrik-tedarik-danismanligi.php"> <span>Servisler</span><i class="energia-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <!-- End .slide-content -->
+                        </div>
+                        <div class="col-12 col-lg-3 offset-lg-2 d-flex">
+                            <div class="slider-panel-holder">
+                                <div class="slider-panel"><i class="panel-icon flaticon-019-electric-tower"></i>
+                                    <h5 class="panel-title">Servisler</h5>
+                                    <p class="panel-desc">Çoğu zaman, tüketiciler teklif toplama süreçlerini uzman danışman yardımı olmadan ele alarak yönetmeye çalışırlar...</p><a href="elektrik-tedarik-danismanligi.php"><i class="energia-arrow-right"> </i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--  End .row-->
+                </div>
+                <!-- End .container-->
+            </div>
+            <div class="slide bg-overlay bg-overlay-dark-slider">
+                <div class="bg-section"><img src="assets/images/mapenerji/slider2-blur.jpg" alt="Background" /></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-lg-7">
+                            <div class="slide-content">
+                                <h1 class="slide-headline">Ges Arazi Satış</h1>
+                                <p class="slide-desc">Şirketimiz bünyesinde bulunan araziler hakkında bilgi almak için lütfen iletişim formunu doldurunuz. Satış temsilcilerimiz en kısa sürede size dönüş sağlayacaklardır. </p>
+                                <div class="slide-action">
+                                    <div class="slide-list">
+                                        <div class="icon"> <i class="flaticon-040-green-energy"></i></div>
+                                        <div class="icon"> <i class="flaticon-020-factory"></i></div>
+                                        <div class="icon"> <i class="flaticon-031-nuclear-plant"></i></div>
+                                    </div>
+                                    <a class="btn btn--primary" href="ges-arazi-satis.php"> <span>Servisler</span><i class="energia-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <!-- End .slide-content -->
+                        </div>
+                        <div class="col-12 col-lg-3 offset-lg-2 d-flex">
+                            <div class="slider-panel-holder">
+                                <div class="slider-panel"><i class="panel-icon flaticon-019-electric-tower"></i>
+                                    <h5 class="panel-title">Servisler</h5>
+                                    <p class="panel-desc">Enerji santrali kurmak isteyen Yatırımcıların Dikkatine</p><a href="ges-arazi-satis.php"><i class="energia-arrow-right"> </i></a>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +266,7 @@
                         <div class="feature-content">
                             <h4>Enerji IoT Platformu</h4>
                             <p>Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor! </p>
-                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                        </div><a href="enerji-iot-platformu.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -214,7 +278,7 @@
                         <div class="feature-content">
                             <h4>Tarife Danışmanlığı</h4>
                             <p>Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur. Map Enerji ve Danışmanlık olarak kurum...  </p>
-                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                        </div><a href="tarife-danismanligi.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -226,7 +290,7 @@
                         <div class="feature-content">
                             <h4>Elektrik Tedarik Danışmanlığı</h4>
                             <p>Enerji Satış lisansı sahibi şirketleri ile indirimli olarak enerji tedarik etmek, şirketinizin kârlılığını arttırmanın bir yoludur.</p>
-                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                        </div><a href="elektrik-tedarik-danismanligi.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -240,7 +304,7 @@
                         <div class="feature-content">
                             <h4>Fatura Kontrol Danışmanlığı</h4>
                             <p>Sürekli değişen elektrik tarifelerini takip etmek, uygulanan indirimleri hesaplayarak sözleşmeye uygunluğunu kontrol...</p>
-                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                        </div><a href="fatura-kontrol-danismanligi.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -252,7 +316,7 @@
                         <div class="feature-content">
                             <h4>Çatı ve Arazi Ges Kurulumu</h4>
                             <p>Çatılarınızın boş durması yerine yenilenebilir enerji kaynaklarının en popüleri olan Solar Enerji Sistemleri ile değerlendirerek...</p>
-                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                        </div><a href="cati-ve-arazi-ges-kurulumu.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
@@ -264,7 +328,7 @@
                         <div class="feature-content">
                             <h4>Ges Arazi Satışı</h4>
                             <p>Enerji santrali kurmak isteyen Yatırımcıların Dikkatine! Şirketimiz bünyesinde bulunan araziler hakkında... </p>
-                        </div><a href="hakkimizda.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
+                        </div><a href="ges-arazi-satis.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
