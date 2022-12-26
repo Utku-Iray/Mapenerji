@@ -262,7 +262,7 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/iot-fotolari/1.jpeg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Enerji IoT Platformu</h4>
                             <p>Farklı sektörlerden kuruluşlar, Map Enerji IoT Platformu ile enerji ve operasyonel verimliliklerini artırmayı tercih ediyor! </p>
@@ -274,7 +274,7 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/tarife-danismanligi/1.jpeg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Tarife Danışmanlığı</h4>
                             <p>Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur. Map Enerji ve Danışmanlık olarak kurum... </p>
@@ -286,7 +286,7 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/1.jpeg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Elektrik Tedarik Danışmanlığı</h4>
                             <p>Enerji Satış lisansı sahibi şirketleri ile indirimli olarak enerji tedarik etmek, şirketinizin kârlılığını arttırmanın bir yoludur.</p>
@@ -300,7 +300,7 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/fatura-kontrol-danismanligi/1.jpeg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Fatura Kontrol Danışmanlığı</h4>
                             <p>Sürekli değişen elektrik tarifelerini takip etmek, uygulanan indirimleri hesaplayarak sözleşmeye uygunluğunu kontrol...</p>
@@ -312,7 +312,7 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/cati-ges-kurulumu/1.jpeg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Çatı ve Arazi Ges Kurulumu</h4>
                             <p>Çatılarınızın boş durması yerine yenilenebilir enerji kaynaklarının en popüleri olan Solar Enerji Sistemleri ile değerlendirerek...</p>
@@ -324,7 +324,7 @@
             <div>
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel">
-                        <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
+                        <div class="feature-icon"><img src="assets/images/servisler-foto/arazi-satis/1.jpeg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Ges Arazi Satışı</h4>
                             <p>Enerji santrali kurmak isteyen Yatırımcıların Dikkatine! Şirketimiz bünyesinde bulunan araziler hakkında... </p>
