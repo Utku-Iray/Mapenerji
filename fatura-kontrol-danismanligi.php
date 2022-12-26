@@ -66,7 +66,7 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container-fluid" style="padding:0px 100px;">
+    <div class="container-fluid" style="padding:0px 30px;">
         <div class="row">
 
             <div class="col-12 col-lg-12 order-0 order-lg-2">
@@ -82,7 +82,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/servisler-foto/fatura-kontrol-danismanligi/1.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Elektrik Faturalarınızı İncelemek Bizim İşimiz. </h3>
@@ -93,14 +93,14 @@
                                         Enerji tedarikçinize çok güveniyor olabilirsiniz ancak sehven hatalar oluşabileceğini unutmamak gerekir. Fatura denetim hizmetimiz ile size yardımcı olabiliriz.
                                     </p>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/fatura-kontrol-danismanligi/1.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/fatura-kontrol-danismanligi/2.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Fatura Kontrol Hizmeti ile Gizli Maliyetlerden Korunursunuz. </h3>
@@ -114,7 +114,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/servisler-foto/fatura-kontrol-danismanligi/3.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading">Ön Ödemeli Tedarik Sözleşmelerine İstinaden Düzenlenen Proforma Faturalarınız Ne Kadar Doğru! </h3>
@@ -125,14 +125,14 @@
                                         MAP Enerji ve Danışmanlık olarak PTF ve YEKDEM Fiyatlarını, tahmini ve gerçekleşen tüketimlerinizi her ay düzenli olarak kontrol ediyor ve faturalarınızın doğruluğundan emin oluyoruz.
                                     </p>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/fatura-kontrol-danismanligi/3.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/fatura-kontrol-danismanligi/4.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading">Elektrik Faturanız da artık Sürprizlere Yer Yok. </h3>

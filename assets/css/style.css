@@ -11540,6 +11540,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 }
 
 .features .feature-panel-holder .feature-panel {
+    min-height: 515px;
     position: relative;
     padding: 39px 35px 40px;
     display: -webkit-box;

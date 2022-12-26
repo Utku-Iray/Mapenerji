@@ -277,7 +277,7 @@
                         <div class="feature-icon"><img src="assets/images/servisler-foto/1.jpg" alt=""></i></div>
                         <div class="feature-content">
                             <h4>Tarife Danışmanlığı</h4>
-                            <p>Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur. Map Enerji ve Danışmanlık olarak kurum...  </p>
+                            <p>Elektrik satın alması kadar doğru tarifeden elektrik kullanmakta maliyet azaltıcı bir unsurdur. Map Enerji ve Danışmanlık olarak kurum... </p>
                         </div><a href="tarife-danismanligi.php"><i class="energia-arrow-right"></i> <span>Daha Fazlası</span> </a>
                     </div>
                     <!-- End .feature-panel-->
@@ -368,7 +368,7 @@
       Testimonials #1 Section
       ============================
       -->
-<section class="testimonial testimonial-1 bg-theme2" style="margin-top: 150px;">
+<section class="testimonial testimonial-1 bg-theme2" style="margin:  75px 0px;">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -377,11 +377,11 @@
                         <div class="testimonial-body">
                             <div class="testimonial-img"> <img src="assets/images/testimonial/3.jpg" alt="Testimonial Author" /></div>
                             <div class="testimonial-content">
-                                <p>“They were fantastic through the entire purchase process. Had lots of questions and they were patient. When my system arrived, it was well packed and shipping done smoothly with xpo.”</p>
-                                <div class="testimonial-meta">
+                                <p>"Bir partner olarak Map Enerji ve Danışmanlık firması ile çalışmaktan son derece memnunuz. "</p>
+                                <!-- <div class="testimonial-meta">
                                     <h6>martin hope</h6>
                                     <p>pro systems founder</p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -389,11 +389,8 @@
                         <div class="testimonial-body">
                             <div class="testimonial-img"> <img src="assets/images/testimonial/4.jpg" alt="Testimonial Author" /></div>
                             <div class="testimonial-content">
-                                <p>“They helped lead me through the process of system selection, site layout and placing my order. They were very knowledgeable and has provided guidance each step.”</p>
-                                <div class="testimonial-meta">
-                                    <h6>john peter</h6>
-                                    <p>pro systems founder</p>
-                                </div>
+                                <p>“Halen daha fikirlerimizi paylaşıp birlikte çözüm buluyorsak, bu iyi bir partnerlik demek!”</p>
+
                             </div>
                         </div>
                     </div>
@@ -401,11 +398,19 @@
                         <div class="testimonial-body">
                             <div class="testimonial-img"> <img src="assets/images/testimonial/5.jpg" alt="Testimonial Author" /></div>
                             <div class="testimonial-content">
-                                <p>“They helped lead me through the process of system selection, site layout and placing my order. They were very knowledgeable and has provided guidance each step.”</p>
-                                <div class="testimonial-meta">
-                                    <h6>john doe</h6>
-                                    <p>energia systems founder</p>
-                                </div>
+                                <p>“Merhabalar değerli Map Enerji ailesi! Bizim, hayatımız olan işimizi kolaylaştırmak adına yapılan bu
+                                    çalışmalarınız için teşekkür ederim.”</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-panel">
+                        <div class="testimonial-body">
+                            <div class="testimonial-img"> <img src="assets/images/testimonial/5.jpg" alt="Testimonial Author" /></div>
+                            <div class="testimonial-content">
+                                <p>“Map Enerji ailesi, Enerji tedariği konusunda tüm enerji firmalarından şirketimize en uygun ve en iyi fiyat
+                                    tedariği ederek bizi doğru yönlendirdiği için teşekkür ederiz.”</p>
+
                             </div>
                         </div>
                     </div>
@@ -417,39 +422,7 @@
     <!-- End .container-->
 </section>
 
-<section class="clients clients-carousel clients-1" id="clients-1">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <h3 class="d-none">Our Clients</h3>
-            </div>
-            <div class="col-12">
-                <div class="carousel owl-carousel" data-slide="6" data-slide-rs="2" data-autoplay="true" data-nav="false" data-dots="false" data-space="0" data-loop="true" data-speed="3000">
-                    <div class="client">
-                        <a href="javascript:void(0)"> </a><img src="assets/images/clients/1.png" alt="client" />
-                    </div>
-                    <div class="client">
-                        <a href="javascript:void(0)"> </a><img src="assets/images/clients/2.png" alt="client" />
-                    </div>
-                    <div class="client">
-                        <a href="javascript:void(0)"> </a><img src="assets/images/clients/3.png" alt="client" />
-                    </div>
-                    <div class="client">
-                        <a href="javascript:void(0)"> </a><img src="assets/images/clients/4.png" alt="client" />
-                    </div>
-                    <div class="client">
-                        <a href="javascript:void(0)"> </a><img src="assets/images/clients/5.png" alt="client" />
-                    </div>
-                    <div class="client">
-                        <a href="javascript:void(0)"> </a><img src="assets/images/clients/6.png" alt="client" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End .row-->
-    </div>
-    <!-- End .container-->
-</section>
+
 <!--
       ============================
       Contact #1 Section

@@ -85,6 +85,7 @@
                                 <!-- <li> <a class="share-facebook" href="javascript:void(0)"><i class="energia-facebook"></i>facebook </a></li>
                                 <li> <a class="share-twitter" href="javascript:void(0)"><i class="energia-twitter"></i>twitter</a></li> -->
                                 <li> <a class="share-twitter" href="https://instagram.com/mapenerji"><i class="fab fa-instagram"></i>İnstagram</a></li>
+                                <li> <a class="share-twitter" href="https://www.linkedin.com/feed/"><i class="fab fa-linkedin"></i>Linkedin</a></li>
 
                                 <!-- <li> <a class="share-youtube" href="javascript:void(0)"><i class="energia-youtube"></i>youtube</a></li> -->
                             </ul>

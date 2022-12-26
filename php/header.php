@@ -25,7 +25,7 @@
                         </div>
                         <div class="contact-infos"><i class="energia-clock-Icon"></i>
                             <div class="contact-body">
-                                <p>pzrt - cuma: 8:00 - 19:00</p>
+                                <p>pzrt - crts: 8:00 - 19:00</p>
                             </div>
                         </div>
                     </div>
@@ -34,6 +34,7 @@
                     <!-- Start .social-links-->
                     <div class="social-links">
                     <a class="share-instagram" href="https://instagram.com/mapenerji"><i style="font-size:x-large" class="fab fa-instagram"></i></a>
+                    <a class="share-instagram" href="https://www.linkedin.com/feed/"><i style="font-size:x-large" class="fab fa-linkedin"></i></a>
                   </div>
                     <!-- End .social-links-->
                     <!-- <div class="topbar-links"><a href="blog-grid.html">news & media</a><a href="page-careers.html">careers</a><a href="page-faqs.html">FAQs</a></div>

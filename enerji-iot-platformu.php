@@ -66,7 +66,7 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container-fluid" style="padding:0px 100px;">
+    <div class="container-fluid" style="padding:0px 30px;">
         <div class="row">
             <!-- <div class="col-12 col-lg-4 order-1">
           
@@ -134,7 +134,7 @@
                         <div class="entry-stats entry-infos">
                             <h2> Uygulamalar</h2>
                             <div class="row">
-                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/1.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
 
@@ -160,14 +160,14 @@
                                         <li>Reaktif limit analizi.</li>
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/1.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/2.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Portföy Yönetimi </h3>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/3.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
 
@@ -219,7 +219,7 @@
 
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/3.jpeg" alt="Chart image" /></div>
 
                             </div>
                         </div>
@@ -227,7 +227,7 @@
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/4.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading">Fatura Yönetimi </h3>
@@ -256,7 +256,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/5.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
 
@@ -280,7 +280,7 @@
 
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/5.jpeg" alt="Chart image" /></div>
 
                             </div>
                         </div>
@@ -288,7 +288,7 @@
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/6.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Güneş Santrali İzleme ve Yönetimi </h3>
@@ -315,7 +315,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                            <div class="col-12 col-lg-6 image-block" style="display: none;">  <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/7.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
 
@@ -343,7 +343,7 @@
 
                                     </ul>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/iot-fotolari/7.jpeg" alt="Chart image" /></div>
 
                             </div>
                         </div>

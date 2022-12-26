@@ -63,7 +63,7 @@
                                         <p>Konum: <a href="mailto:info@mapenerji.com.tr">Muratpaşa / Antalya </a></p>
                                     </li>
                                     <li class="contact-info"><i class="energia-clock-Icon"></i>
-                                        <p>pzrt - cuma: 8:00 - 19:00 </p>
+                                        <p>pzrt - crts: 8:00 - 19:00 </p>
                                     </li>
                                 </ul><a class="btn btn--white" href="hakkimizda.php">Hakkımızda <i class="energia-arrow-right"></i></a>
                             </div>
@@ -100,7 +100,7 @@
                                         </select>
                                     </div>
                                     <div class="col-12">
-                                        <textarea class="form-control" id="contact-infos" placeholder="additional information" name="contact-infos" cols="30" rows="10"></textarea>
+                                        <textarea class="form-control" id="contact-infos" placeholder="Mesaj Yazınız" name="contact-infos" cols="30" rows="10"></textarea>
                                     </div>
                                     <div class="col-12">
                                         <button class="btn btn--secondary">Formu İlet <i class="energia-arrow-right"></i></button>
@@ -138,31 +138,37 @@
             </div>
             <div class="col-12 col-lg-7 offset-lg-1">
                 <div class="heading heading-14">
-                    <p class="heading-subtitle">Customers Doing it Their Way!</p>
+                    <p class="heading-subtitle">Yorumlar</p>
                 </div>
                 <div class="testimonials-holder">
                     <div class="carousel owl-carousel testimonials-carousel" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="false" data-space="0" data-loop="false" data-speed="800">
                         <div class="testimonial-panel testimonial-panel-2">
                             <div class="testimonial-body">
                                 <div class="testimonial-content">
-                                    <p>Energia has been absolutely the best to work with. Their attention to detail and customer support was amazing!! They were fantastic through the entire purchase process. Had lots of questions and they were patient.
-                                        When my system arrived, it was well packed.</p>
+                                    <p>"Bir partner olarak Map Enerji ve Danışmanlık firması ile çalışmaktan son derece memnunuz. "</p>
                                 </div>
                             </div>
                         </div>
                         <div class="testimonial-panel testimonial-panel-2">
                             <div class="testimonial-body">
                                 <div class="testimonial-content">
-                                    <p>Energia has been absolutely the best to work with. Their attention to detail and customer support was amazing!! They were fantastic through the entire purchase process. Had lots of questions and they were patient.
-                                        When my system arrived, it was well packed.</p>
+                                    <p>“Halen daha fikirlerimizi paylaşıp birlikte çözüm buluyorsak, bu iyi bir partnerlik demek!”</p>
                                 </div>
                             </div>
                         </div>
                         <div class="testimonial-panel testimonial-panel-2">
                             <div class="testimonial-body">
                                 <div class="testimonial-content">
-                                    <p>Energia has been absolutely the best to work with. Their attention to detail and customer support was amazing!! They were fantastic through the entire purchase process. Had lots of questions and they were patient.
-                                        When my system arrived, it was well packed.</p>
+                                    <p>“Merhabalar değerli Map Enerji ailesi! Bizim, hayatımız olan işimizi kolaylaştırmak adına yapılan bu
+                                    çalışmalarınız için teşekkür ederim.”</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial-panel testimonial-panel-2">
+                            <div class="testimonial-body">
+                                <div class="testimonial-content">
+                                    <p>“Map Enerji ailesi, Enerji tedariği konusunda tüm enerji firmalarından şirketimize en uygun ve en iyi fiyat
+                                    tedariği ederek bizi doğru yönlendirdiği için teşekkür ederiz.”</p>
                                 </div>
                             </div>
                         </div>
@@ -171,24 +177,19 @@
                 <div class="testimonial-thumbs">
                     <div class="testimonial-thumb active" data-hover="">
                         <div class="thumb-img"> <img src="assets/images/testimonial/1.jpg" alt="Testimonial Author" /></div>
-                        <div class="thumb-body">
-                            <h6>sami wade</h6>
-                            <p>promina</p>
-                        </div>
+                      
                     </div>
                     <div class="testimonial-thumb" data-hover="">
                         <div class="thumb-img"> <img src="assets/images/testimonial/2.jpg" alt="Testimonial Author" /></div>
-                        <div class="thumb-body">
-                            <h6>john peter</h6>
-                            <p>optima inc</p>
-                        </div>
+                       
                     </div>
                     <div class="testimonial-thumb" data-hover="">
                         <div class="thumb-img"> <img src="assets/images/testimonial/3.jpg" alt="Testimonial Author" /></div>
-                        <div class="thumb-body">
-                            <h6>sony blake</h6>
-                            <p>koira ind</p>
-                        </div>
+                       
+                    </div>
+                    <div class="testimonial-thumb" data-hover="">
+                        <div class="thumb-img"> <img src="assets/images/testimonial/2.jpg" alt="Testimonial Author" /></div>
+                       
                     </div>
                 </div>
             </div>

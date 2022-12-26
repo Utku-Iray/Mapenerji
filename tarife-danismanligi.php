@@ -66,7 +66,7 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container-fluid" style="padding:0px 100px;">
+    <div class="container-fluid" style="padding:0px 30px;">
         <div class="row">
          
             <div class="col-12 col-lg-12 order-0 order-lg-2">
@@ -80,7 +80,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/servisler-foto/tarife-danismanligi/1.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                         <h3 class="entry-heading"> Yatırım Gerektirmeden Maliyetleri Azaltırsınız! </h3>
@@ -91,14 +91,14 @@
                                             Map Enerji ve Danışmanlık olarak, çift terimli tarife yönetiminde sizlere tasarruf garantisi veriyoruz. Danışmanlık ücretimizi, sağlanan tasarruf üzerinden kar paylaşımı olarak faturalandırıyoruz. Dolayısıyla sizlere mümkün olan en yüksek tasarrufu sağlamaya çalışıyoruz. Ortada bir tasarruf yoksa herhangi bir ödeme yapmak durumunda da kalmıyorsunuz.
                                         </p>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/tarife-danismanligi/1.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/tarife-danismanligi/1.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Tüm Enerjimizle Her Zaman Yanındayız </h3>

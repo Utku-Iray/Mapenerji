@@ -61,7 +61,7 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container-fluid" style="padding:0px 100px;">
+    <div class="container-fluid" style="padding:0px 30px;">
         <div class="row">
 
             <div class="col-12 col-lg-12 order-0 order-lg-2">
@@ -78,20 +78,20 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/1.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading">Elektrik Teklif Tipleri Aklınızı Mı Karıştırıyor. </h3>
                                     <p>İşletmenizin tüketim alışkanlığına uygun olmayan, size tercih imkânı sunmayan, sektör terminolojisi ile karmaşıklaşan elektrik fiyat tekliflerini sizi için topluyor ve anlaşılabilir karşılaştırmalar ile sadeleştirerek en doğru tercihi yapabilmeniz için destek oluyoruz.</p>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/1.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/2.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> İşletmeniz İçin En Doğru Fiyatları, En Güvenilir Şirketlerden Buluyoruz </h3>
@@ -107,7 +107,7 @@
                         </div>
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/3.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading">Hangi Seçenekler Sizin İçin En Doğrusu Biliyor Musunuz? </h3>
@@ -115,14 +115,14 @@
                                         <br><br> Seçenek olmadan size sunulan teklifler yerine ihtiyacınıza uygun teklif tipleri üzerinden fiyat topluyoruz.
                                     </p>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/3.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                         <div class="entry-stats entry-infos">
 
                             <div class="row">
 
-                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/servisler-foto/elektrik-tedarik-danismanligi/4.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> Satış Sonrası Destek </h3>

@@ -66,7 +66,7 @@
       ============================
       -->
 <section class="service-single" id="service-single">
-    <div class="container-fluid" style="padding:0px 100px;">
+    <div class="container-fluid" style="padding:0px 30px;">
         <div class="row">
 
             <div class="col-12 col-lg-12 order-0 order-lg-2">
@@ -76,7 +76,7 @@
 
                         <div class="entry-stats entry-infos">
                             <div class="row">
-                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-block" style="display: none;"> <img class="entry-chart" src="assets/images/servisler-foto/kompanzasyon-takip/1.jpeg" alt="Chart image" /></div>
 
                                 <div class="col-12 col-lg-6 text-auto-center">
                                     <h3 class="entry-heading"> KOMPANZASYON TAKİBİ </h3>
@@ -88,7 +88,7 @@
                                         <br><br> MAP Enerji ve Danışmanlık olarak, kompanzasyon sisteminizi düzenli olarak takip ediyor ve periyodik olarak kontrollerini yapıyoruz. Böylece kompanzasyon panosunda olacak olası arızaları erken tespit ederek reaktif ceza durumunu ortadan kaldırıyoruz.
                                     </p>
                                 </div>
-                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/mapenerji/enerji2.jpg" alt="Chart image" /></div>
+                                <div class="col-12 col-lg-6 image-none"> <img class="entry-chart" src="assets/images/servisler-foto/kompanzasyon-takip/1.jpeg" alt="Chart image" /></div>
                             </div>
                         </div>
                      
