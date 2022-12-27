@@ -50,7 +50,7 @@
                 </div>
             </div>
             <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu">
-                <a class="navbar-brand" href="index.php"><img class="logo logo-dark" src="assets/images/mapenerji-logo.png" alt="Energia Logo" /><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="Energia Logo" /></a>
+                <a class="navbar-brand" href="index.php"><img class="logo logo-dark" src="assets/images/mapenerji-logo.png" alt="Energia Logo" /><img class="logo logo-mobile" src="assets/images/mapenerji-logo.png" alt="Energia Logo" /></a>
                 <div class="module-holder module-holder-phone">
                     <!-- <div class="module module-search">
                         <div class="module-icon module-icon-search"><i class="energia-search-Icon"></i></div>

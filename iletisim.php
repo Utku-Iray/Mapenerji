@@ -78,15 +78,18 @@
                             <form class="contactForm" method="post" action="assets/php/contact.php">
                                 <div class="row">
                                     <div class="col-12 col-md-6">
-                                        <input class="form-control" type="text" id="contact-name" name="contact-name" placeholder="İsim" required="" />
+                                        <input class="form-control" type="text" name="name" placeholder="İsim" required="" />
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <input class="form-control" type="text" id="contact-email" name="contact-email" placeholder="E-mail" required="" />
+                                        <input class="form-control" type="text"  name="email" placeholder="E-mail" required="" />
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <input class="form-control" type="text" id="contact-phone" name="contact-phone" placeholder="Telefon Numarası" required="" />
+                                        <input class="form-control" type="text" name="phone" placeholder="Telefon Numarası" required="" />
                                     </div>
                                     <div class="col-12 col-md-6">
+                                        <input class="form-control" type="text"  name="cözüm" placeholder="Çözüm Yazınız" required="" />
+                                    </div>
+                                    <!-- <div class="col-12 col-md-6">
                                         <select class="form-control" id="select-1">
                                             <option value="default">Çözüm Seçiniz</option>
                                             <option value="s1">Enerji IoT Platformu </option>
@@ -98,9 +101,9 @@
                                             <option value="s7">Çatı ve arazi ges kurulumu </option>
                                             <option value="s8">Ges arazi satışı </option>
                                         </select>
-                                    </div>
+                                    </div> -->
                                     <div class="col-12">
-                                        <textarea class="form-control" id="contact-infos" placeholder="Mesaj Yazınız" name="contact-infos" cols="30" rows="10"></textarea>
+                                        <textarea class="form-control"  placeholder="Mesaj Yazınız" name="message" cols="30" rows="10"></textarea>
                                     </div>
                                     <div class="col-12">
                                         <button class="btn btn--secondary">Formu İlet <i class="energia-arrow-right"></i></button>
