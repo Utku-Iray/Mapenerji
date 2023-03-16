@@ -2,10 +2,12 @@
 ini_set('display_errors', 1); ini_set('display_startup_errors', 1); error_reporting(E_ALL);
 //Form'dan Bütün Değerler Post Methodu ile Çekiliyor
 $name = trim(strip_tags($_POST['name']));
+$position = trim(strip_tags($_POST['position']));
 $email = trim(strip_tags($_POST['email']));
 $phone = trim(strip_tags($_POST['phone']));
-$cozum = trim(strip_tags($_POST['cozum']));
-$message = trim(strip_tags($_POST['message']));
+$adress = trim(strip_tags($_POST['adress']));
+$ililce = trim(strip_tags($_POST['ililce']));
+$tuketim = trim(strip_tags($_POST['tuketim']));
 
 //Form'dan Bütün Değerler Post Methodu ile Çekiliyor Tamamlandı
 
@@ -14,10 +16,12 @@ if($name and $phone){ //Form'dan bütün değerler geliyorsa mail gönderme işl
 
     $Mesaj = "
     İsim soyisim: $name<br>
+    Pozisyon: $position<br>
     E_posta Adresi: $email <br>
     Telefon : $phone <br>
-    Konu: $cozum <br>
-    Mesaj: $message <br>
+    Adress : $adress <br>
+    İl_İlçe: $ililce <br>
+    Toplam_Tüketim: $tuketim <br>
     Bu mail: https://mapenerji.com.tr/ adresinden gelmiştir.
     ";
 
@@ -34,7 +38,7 @@ if($name and $phone){ //Form'dan bütün değerler geliyorsa mail gönderme işl
     //Mail Bağlantı Ayarları Tamamlandı
 
     //Doldurulan Form Mail Olarak Kime Gidecek?
-    $MailKimeGidecek = "utku.iray.99@gmail.com";
+    $MailKimeGidecek = "info@mapenerji.com.tr";
     $MesajKonusu ="Map Enerji İletişim İletişim Formu";
     //Doldurulan Form Mail Olarak Kime Gidecek Tamamlandı
     
@@ -52,6 +56,20 @@ if($name and $phone){ //Form'dan bütün değerler geliyorsa mail gönderme işl
     $mail->Subject = $MesajKonusu; //Mail Konu Başlığı
     $mail->MsgHTML("$Mesaj"); //Mail Mesaj İçeriği
     
+    $sayac = count($_FILES['folder']['tmp_name']);
+    for ($i = 0; $i < $sayac; $i++) {
+        if (
+            isset($_FILES['folder']) &&
+            $_FILES['folder']['error'][$i] == UPLOAD_ERR_OK
+        ) {
+            $mail->AddAttachment(
+                $_FILES['folder']['tmp_name'][$i],
+                $_FILES['folder']['name'][$i]
+            );
+        } else {
+            echo "erorr!";
+        }
+    }
     if($mail->Send()) {
         echo '<script>alert("Your messages have been received from you!");</script>';
     } else {

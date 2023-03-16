@@ -10,11 +10,11 @@
             <div class="heading heading-light heading-6">
                 <!-- <p class="heading-subtitle">Improving The Performance Of Solar Energy.</p> -->
                 <h2 class="heading-title">İşletmenize Özel İndirimli Elektrik Teklifleri Map Enerji'den</h2>
-                <p class="heading-desc">İşletmenizin ihtiyaç duyduğu güvenilir ve sürdürülebilir enerjiye en avantajlı fiyatlarla sahip olmak için indirimli elektrik tekliflerimizi keşfetmeye hazır mısınız? 
+                <p class="heading-desc">İşletmenizin ihtiyaç duyduğu güvenilir ve sürdürülebilir enerjiye en avantajlı fiyatlarla sahip olmak için indirimli elektrik tekliflerimizi keşfetmeye hazır mısınız?
                 </p>
-                <p class="heading-desc">Siz de başvuru formumuzu doldurun, enerji tüketimlerinizi analiz ederek işletmenizin ihtiyaçlarına uygun teklifleri sizin için hemen hazırlayalım! 
+                <p class="heading-desc">Siz de başvuru formumuzu doldurun, enerji tüketimlerinizi analiz ederek işletmenizin ihtiyaçlarına uygun teklifleri sizin için hemen hazırlayalım!
                 </p>
-                <p class="heading-desc">Map Enerji ve Danışmanlık olarak, avantajlı tekliflerimiz, uzman kadromuz ve tüm hizmet kanallarımız ile işletmelerimizin her zaman yanındayız. 
+                <p class="heading-desc">Map Enerji ve Danışmanlık olarak, avantajlı tekliflerimiz, uzman kadromuz ve tüm hizmet kanallarımız ile işletmelerimizin her zaman yanındayız.
                 </p>
                 <!-- <div class="advantages-list-holder">
                     <div class="row">
@@ -40,43 +40,44 @@
             <div class="contact-card">
                 <div class="contact-body">
                     <h5 class="card-heading">Sizi Tanıyalım</h5>
-                    <p class="card-desc">İndirimli Elektrik Teklifi Almak için Lütfen Formu Tam ve Eksiksiz Doldurunuz.  <br>
-En kısa Sürede Enerji Danışmanlarımız Size Dönüş Sağlayacaktır.
-</p>
-                    <form class="contactForm" method="post" action="assets/php/contact.php">
+                    <p class="card-desc">İndirimli Elektrik Teklifi Almak için Lütfen Formu Tam ve Eksiksiz Doldurunuz. <br>
+                        En kısa Sürede Enerji Danışmanlarımız Size Dönüş Sağlayacaktır.
+                    </p>
+                    <form  enctype="multipart/form-data" method="POST" action="mail/mail-folder.php">
                         <div class="row">
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">Adınız - Soyadınız</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="Adınız" required="" />
+                                <input class="form-control" type="text"  name="name" placeholder="Adınız - Soyadınız" required="" />
                             </div>
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">Unvan</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="Başvurulan Pozison" required="" />
+                                <input class="form-control" type="text"  name="position" placeholder="Başvurulan Pozison" required="" />
                             </div>
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">E-Mail Adresiniz</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="E-Mail Adresiniz" required="" />
+                                <input class="form-control" type="text"  name="email" placeholder="E-Mail Adresiniz" required="" />
                             </div>
-                         
+
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">Telefon Numarası</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="Başvurulan Pozison" required="" />
+                                <input class="form-control" type="text"  name="phone" placeholder="Başvurulan Pozison" required="" />
                             </div>
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">Adres</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="İkamet Edilen Adres" required="" />
-                            </div><div class="col-12 col-md-6">
+                                <input class="form-control" type="text"  name="adress" placeholder="İkamet Edilen Adres" required="" />
+                            </div>
+                            <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">İl-İlçe</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="İkamet Edilen İl-İlçe" required="" />
+                                <input class="form-control" type="text"  name="ililce" placeholder="İkamet Edilen İl-İlçe" required="" />
                             </div>
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">1 Yıllık Toplam Tüketim</label>
-                                <input class="form-control" type="text" id="contact-usage" name="contact-usage" placeholder="1 yıllık Toplam Tüketim" required="" />
+                                <input class="form-control" type="text"  name="tuketim" placeholder="1 yıllık Toplam Tüketim" required="" />
                             </div>
 
                             <div class="col-md-6">
                                 <label class="form-label" for="contact-usage">En son ödediğiniz elektrik faturasını yükleyiniz (Okunaklı olduğuna emin olun!)</label>
-                                <input type="file" id="folder" webkitdirectory multiple />
+                                <input type="file" name="folder[]"   multiple accept="image/*"/>
                             </div>
                             <div class="col-12">
                                 <button class="btn btn--secondary w-100">Formu Gönder <i class="energia-arrow-right"></i></button>
