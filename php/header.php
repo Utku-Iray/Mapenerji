@@ -150,7 +150,7 @@
                                 <li class="nav-item"><a href="blog-single.html"><span>single blog post</span></a></li>
                             </ul>
                         </li> -->
-                        <li class="nav-item" data-hover=""><a href="indirimli-elektrik-basvuru-formu.php"><span>İndirimli Elektrikli Başvuru Formu</span></a></li>
+                        <li class="nav-item" data-hover=""><a href="indirimli-elektrik-basvuru-formu.php"><span>İndirimli Elektrik Başvuru Formu</span></a></li>
 
                         <li class="nav-item" id="contact" data-hover=""><a href="iletisim.php"><span>İletişim</span></a></li>
                     </ul>

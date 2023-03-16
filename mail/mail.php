@@ -28,13 +28,13 @@ if($name and $phone){ //Form'dan bütün değerler geliyorsa mail gönderme işl
 
     //Mail Bağlantı Ayarları 
     //Mail Hangi Hesaptan Gönderilecek ise onun bilgilerini yazın.
-    $MailSmtpHost = "dentinnturkey.com";
-    $MailUserName = "mail@dentinnturkey.com";
-    $MailPassword = "ideapol.123";
+    $MailSmtpHost = "alondanbilisim.com";
+    $MailUserName = "utah@alondanbilisim.com";
+    $MailPassword = "[4I#Pn+#IWEC";
     //Mail Bağlantı Ayarları Tamamlandı
 
     //Doldurulan Form Mail Olarak Kime Gidecek?
-    $MailKimeGidecek = "info@mapenerji.com.tr";
+    $MailKimeGidecek = "utku.iray.99@gmail.com";
     $MesajKonusu ="Map Enerji İletişim İletişim Formu";
     //Doldurulan Form Mail Olarak Kime Gidecek Tamamlandı
     

@@ -75,7 +75,7 @@
                         <div class="contact-body">
                             <h5 class="card-heading">İletişime Geçin</h5>
                             <!-- <p class="card-desc">We take great pride in everything that we do, control over products allows us to ensure our customers receive the best quality service.</p> -->
-                            <form class="contactForm" method="post" action="assets/php/contact.php">
+                            <form  method="POST" action="mail/mail.php">
                                 <div class="row">
                                     <div class="col-12 col-md-6">
                                         <input class="form-control" type="text" name="name" placeholder="İsim" required="" />
@@ -87,7 +87,7 @@
                                         <input class="form-control" type="text" name="phone" placeholder="Telefon Numarası" required="" />
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <input class="form-control" type="text"  name="cözüm" placeholder="Çözüm Yazınız" required="" />
+                                        <input class="form-control" type="text"  name="cozum" placeholder="Çözüm Yazınız" required="" />
                                     </div>
                                     <!-- <div class="col-12 col-md-6">
                                         <select class="form-control" id="select-1">

@@ -61,7 +61,7 @@
                                 <li class="phone">+90<a href="tel:+90242 322 26 16"> 242 322 26 16</a></li>
                                 <li class="email">Email: <a href="mailto:info@mapenerji.com.tr">info@mapenerji.com.tr</a></li>
                                 <li class="address">
-                                    <p>Yeşilbahçe Mah. 1448 Sok. No: 7 Naile Gülaçtı Apt. D:1  Muratapaşa / Antalya</p>
+                                    <p>Yeşilbahçe Mah. 1448 Sok. No: 7 Naile Gülaçtı Apt. D:1  Muratpaşa / Antalya</p>
                                 </li>
                                 <li class="directions"><a href="iletisim.php"><i class="energia-location-Icon"></i>Harita</a></li>
                             </ul>
