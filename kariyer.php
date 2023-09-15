@@ -74,8 +74,8 @@
                                             <input class="form-control" type="text" id="contact-first-name" name="contact-first-name" placeholder="Adınız" required="" />
                                         </div>
                                         <div class="col-12 col-md-6">
-                                            <label class="form-label" for="contact-last-name">Last name</label>
-                                            <input class="form-control" type="text" id="contact-last-name" name="contact-last-name" placeholder="Adel" required="" />
+                                            <label class="form-label" for="contact-last-name">Soyadınız</label>
+                                            <input class="form-control" type="text" id="contact-last-name" name="contact-last-name" placeholder="Soyadınız" required="" />
                                         </div>
                                         <div class="col-12 col-md-6">
                                             <label class="form-label" for="contact-phone">Telefon Numaranız</label>
@@ -87,11 +87,11 @@
                                         </div>
                                         <div class="col-12 col-md-6">
                                             <label class="form-label" for="contact-email">İkamet Edilen İl</label>
-                                            <input class="form-control" type="email" id="contact-email" name="contact-email" placeholder="İkamet Edilen İl" required="" />
+                                            <input class="form-control" type="text" id="contact-email" name="contact-email" placeholder="İkamet Edilen İl" required="" />
                                         </div>
                                         <div class="col-md-6">
                                             <label class="form-label" for="contact-usage">Dosya Seçiniz</label>
-                                            <input type="file" id="folder" webkitdirectory multiple />
+                                            <input type="file" id="folder"  multiple />
                                         </div>
                                     </div>
                                 </div>

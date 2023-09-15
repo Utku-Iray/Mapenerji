@@ -43,7 +43,7 @@
                     <p class="card-desc">İndirimli Elektrik Teklifi Almak için Lütfen Formu Tam ve Eksiksiz Doldurunuz. <br>
                         En kısa Sürede Enerji Danışmanlarımız Size Dönüş Sağlayacaktır.
                     </p>
-                    <form  enctype="multipart/form-data" method="POST" action="mail/mail-folder.php">
+                    <form  enctype="multipart/form-data" method="post" action="mail/mail-folder.php">
                         <div class="row">
                             <div class="col-12 col-md-6">
                                 <label class="form-label" for="contact-usage">Adınız - Soyadınız</label>

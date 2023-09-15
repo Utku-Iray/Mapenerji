@@ -114,7 +114,7 @@
                                 <li class="nav-item"><a href="shop-products.html"><span>shop</span></a></li>
                             </ul>
                         </li> -->
-                        <li class="nav-item has-dropdown" id="departments" data-hover=""><a class="dropdown-toggle" href="page-services.html" data-toggle="dropdown"><span>Çözümlerimiz</span></a>
+                        <li class="nav-item has-dropdown" id="departments" data-hover=""><a class="dropdown-toggle" href="cozumlerimiz.php" data-toggle="dropdown"><span>Çözümlerimiz</span></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a href="enerji-iot-platformu.php"><span>Enerji IoT Platformu</span></a></li>
                                 <li class="nav-item"><a href="tarife-danismanligi.php"><span>Tarife Danışmanlığı</span></a></li>
