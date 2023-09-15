@@ -64,7 +64,7 @@
                 <div class="contact-body">
                     <h5 class="card-heading">Sizi Tanıyalım</h5>
                     <p class="card-desc">İnsan kaynaklarımız formunuzu inceleyip size ön bilgi olarak mail atacaktır.</p>
-                    <form class="contactForm" method="post" action="assets/php/contact.php">
+                    <form  method="post" action="mail/mail-folder.php">
                         <div class="mb-20">
                             <div class="row">
                                 <div class="mb-20">
